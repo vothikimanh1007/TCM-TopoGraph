@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TCM-TopoGraph | PhD Project</title>
+    <script src="[https://cdn.tailwindcss.com](https://cdn.tailwindcss.com)"></script>
+    <script type="text/javascript" src="[https://unpkg.com/vis-network/standalone/umd/vis-network.min.js](https://unpkg.com/vis-network/standalone/umd/vis-network.min.js)"></script>
+    <style>
+        #mynetwork { width: 100%; height: 600px; border-radius: 0.5rem; background-color: #f8fafc; }
+        .legend-dot { height: 16px; width: 16px; border-radius: 50%; display: inline-block; }
+        .legend-line { height: 4px; width: 24px; display: inline-block; vertical-align: middle; }
+    </style>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans">
+    <!-- Navbar -->
+    <nav class="bg-slate-900 text-white p-4 shadow-md">
+        <div class="max-w-7xl mx-auto flex justify-between items-center">
+            <h1 class="text-2xl font-bold tracking-wider">TCM-TopoGraph</h1>
+            <div class="text-sm text-slate-300">VŠB-TUO | PhD Research</div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto p-6 mt-6">
+        <!-- Intro & Link to HF -->
+        <section class="bg-white p-8 rounded-xl shadow-sm border mb-8 flex flex-col md:flex-row items-center justify-between">
+            <div class="md:w-2/3">
+                <h2 class="text-3xl font-bold text-slate-800 mb-4">Unified Geometric & Topological Representations</h2>
+                <p class="text-gray-600 text-lg mb-4">
+                    A Deep Learning Framework Leveraging Symmetry and Persistence for the Human Meridian System. This project introduces a <strong>Directed Topological Graph Neural Network (Topo-GNN)</strong> capable of In-silico target discovery.
+                </p>
+                <!-- UPDATE THE URL BELOW -->
+                <a href="[https://huggingface.co/spaces/YOUR_HUGGING_FACE_USERNAME/TCM-TopoGraph](https://huggingface.co/spaces/YOUR_HUGGING_FACE_USERNAME/TCM-TopoGraph)" target="_blank" class="inline-block bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-6 rounded-lg shadow-md transition">
+                    Launch AI Inference App (Hugging Face) &rarr;
+                </a>
+            </div>
+            <div class="md:w-1/3 flex justify-center mt-6 md:mt-0">
+                <div class="w-32 h-32 bg-slate-100 rounded-full flex items-center justify-center border-4 border-slate-200">
+                    <span class="text-5xl">🧬</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Interactive Graph -->
+        <section class="mb-8 border-t pt-8">
+            <h2 class="text-2xl font-bold text-slate-800 mb-2">Interactive Topological Projection</h2>
+            <p class="text-slate-600 mb-6">Drag nodes or zoom to explore the heterogeneous manifold structure. Standard GNNs fail to capture the directed loops formed by the red nodes.</p>
+
+            <div class="flex flex-col lg:flex-row gap-6">
+                <!-- Canvas -->
+                <div class="w-full lg:w-3/4 bg-white p-2 rounded-xl shadow-sm border">
+                    <div id="mynetwork"></div>
+                </div>
+
+                <!-- Legend -->
+                <div class="w-full lg:w-1/4 flex flex-col gap-6">
+                    <div class="bg-white p-5 rounded-xl shadow-sm border">
+                        <h3 class="text-lg font-bold border-b pb-2 mb-4">Node Modalities</h3>
+                        <div class="flex items-start mb-4"><span class="legend-dot mt-1 mr-3" style="background-color: #FF6B6B;"></span><div><p class="font-semibold text-sm">Acupoints</p></div></div>
+                        <div class="flex items-start"><span class="legend-dot mt-1 mr-3" style="background-color: #4ECDC4;"></span><div><p class="font-semibold text-sm">Herbs (Interventions)</p></div></div>
+                    </div>
+                    <div class="bg-white p-5 rounded-xl shadow-sm border">
+                        <h3 class="text-lg font-bold border-b pb-2 mb-4">Edge Relations</h3>
+                        <div class="flex items-center mb-4"><span class="legend-line mr-3" style="background-color: #FF6B6B;"></span><div><p class="font-semibold text-sm">Directed Flow</p></div></div>
+                        <div class="flex items-center"><span class="legend-line mr-3" style="background: repeating-linear-gradient(90deg, #4ECDC4, #4ECDC4 4px, transparent 4px, transparent 8px);"></span><div><p class="font-semibold text-sm">Regulatory Tropism</p></div></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script>
+        var nodes = new vis.DataSet([
+            {id: 'LU_1', label: 'LU-1', group: 'acupoint'}, {id: 'LU_2', label: 'LU-2', group: 'acupoint'},
+            {id: 'LU_3', label: 'LU-3', group: 'acupoint'}, {id: 'LU_4', label: 'LU-4', group: 'acupoint'},
+            {id: 'HT_1', label: 'HT-1', group: 'acupoint'}, {id: 'HT_2', label: 'HT-2', group: 'acupoint'},
+            {id: 'HT_3', label: 'HT-3', group: 'acupoint'},
+            {id: 'Herb_1', label: 'Modality α', group: 'herb'}, {id: 'Herb_2', label: 'Modality β', group: 'herb'}
+        ]);
+        var edges = new vis.DataSet([
+            {from: 'LU_1', to: 'LU_2', group: 'flow'}, {from: 'LU_2', to: 'LU_3', group: 'flow'},
+            {from: 'LU_3', to: 'LU_4', group: 'flow'}, {from: 'HT_1', to: 'HT_2', group: 'flow'},
+            {from: 'HT_2', to: 'HT_3', group: 'flow'},
+            {from: 'Herb_1', to: 'LU_2', group: 'tropism'}, {from: 'Herb_1', to: 'HT_1', group: 'tropism'},
+            {from: 'Herb_2', to: 'HT_2', group: 'tropism'}, {from: 'Herb_2', to: 'LU_4', group: 'tropism'}
+        ]);
+        var container = document.getElementById('mynetwork');
+        var data = { nodes: nodes, edges: edges };
+        var options = {
+            nodes: { shape: 'dot', borderWidth: 2, shadow: true },
+            edges: { smooth: { type: 'curvedCW', roundness: 0.2 } },
+            groups: {
+                acupoint: { color: {background: '#FF6B6B', border: '#e05252'}, size: 15, font: {color: '#333'} },
+                herb: { color: {background: '#4ECDC4', border: '#3ab0a6'}, size: 20, font: {color: '#1e293b', bold: true} },
+                flow: { color: '#FF6B6B', width: 3, arrows: { to: {enabled: true, scaleFactor: 1.2} } },
+                tropism: { color: '#4ECDC4', width: 1.5, dashes: [5, 5], arrows: { to: {enabled: true, scaleFactor: 0.8} } }
+            },
+            physics: { forceAtlas2Based: { gravitationalConstant: -100, springLength: 150 }, solver: 'forceAtlas2Based' }
+        };
+        new vis.Network(container, data, options);
+    </script>
+</body>
+</html>
