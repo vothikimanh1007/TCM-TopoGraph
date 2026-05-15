@@ -1,0 +1,10 @@
+torch
+torch_geometric
+pandas
+numpy
+matplotlib
+scikit-learn
+streamlit
+plotly
+pyvis
+scipy
