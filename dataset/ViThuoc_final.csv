@@ -1,0 +1,715 @@
+ID_ViThuoc,TenVietNam,TenGoiKhac,TenKhoaHoc,HoThucVat,CongDung,LieuDung,TinhVi,QuyKinh
+1,Ích Mẫu,"ích mẫu thảo, sung úy, chói đèn",Leonurus heterophyllus Sw.,Lamiaceae (Hoa môi),"Trục ứ huyết, sinh huyết mới, hoạt huyết điều kinh, chữa rong huyết sau sinh, kinh nguyệt quá nhiều, huyết áp cao.",6-12g/ngày (dạng thuốc sắc hoặc cao).,"Vị cay, đắng, tính hơi hàn.",(Không ghi rõ)
+2,Hương Phụ,"củ gấu, cỏ gấu, cỏ cú",Cyperus rotundus L.,Cyperaceae (Cói),"Lý khí, giải uất, điều kinh, chỉ thống (giảm đau), chữa kinh nguyệt không đều, đau bụng kinh, đau dạ dày do thần kinh.","6-12g/ngày (dạng thuốc sắc, bột, viên, rượu).","Vị cay, hơi đắng, ngọt.","Can, Tam tiêu."
+3,Ngải Cứu,"cây thuốc cứu, cây thuốc cao, ngài điệp",Artemisia vulgaris L.,Asteraceae (Cúc),"Ôn khí huyết, trục hàn thấp, điều kinh, an thai, chữa đau bụng do hàn, kinh nguyệt không đều, thai động không yên.",6-12g/ngày (tối đa 20g) dưới dạng thuốc sắc hoặc hãm.,"Vị cay, tính hơi ôn.",(Không ghi rõ)
+4,Bạch Đồng Nữ,"bần trắng, vậy trắng, mấn trắng, mộ trắng",Clerodendron fragrans Vent.,Verbenaceae (Cỏ roi ngựa),"Chữa bệnh khí hư, bạch đới. Chữa vàng da và niêm mạc. Dùng ngoài tắm ghẻ, mụn nhọt, rửa chốc đầu .",15-20g lá khô sắc uống.,(Không ghi rõ),(Không ghi rõ)
+5,Cây Diếp Cá,"cây lá giấp, ngư tinh thảo",Houttuynia cordata Thunb.,Saururaceae (Lá giấp),"Tán nhiệt, tiêu ung thũng, dùng chữa phế ung, trĩ, vết lở loét, thông tiểu, mụn nhọt, kinh nguyệt không đều.","6-12g/ngày (sắc, bột viên).","Cay, hơi lạnh, hơi có độc.",Phế kinh.
+6,Cây Hồng Hoa,cây rum,Carthamus tinctorius L.,Asteraceae (Cúc),"Phá ứ huyết, sinh huyết mới, chữa kinh nguyệt bế tắc, sản hậu ứ huyết, thai chết trong bụng, giải nhiệt ra mồ hôi .",3-8g/ngày (dạng thuốc sắc hay ngâm rượu).,"Vị cay, ẩm.","Tâm, Can."
+7,Cây Gai,trữ ma,Boehmeria nivea (L) Gaud.,Urticaceae (Gai),"An thai, chữa sa dạ con, lợi tiểu, chữa tiểu tiện đục, đi tiểu ra máu, viêm tử cung, lòi dom không co lên được.",10-30g rễ sắc với nước uống.,"Ngọt, hàn, không độc.",(Không ghi rõ)
+8,Cây Hoa Cứt Lợn,"cây hoa ngũ sắc, cây hoa ngũ vị, cỏ hôi",Ageratum conyzoides L.,Asteraceae (Cúc),"Chữa rong huyết sau khi sinh nở, chữa viêm xoang mũi dị ứng. Phối hợp với bồ kết nấu nước gội đầu.",30-50g cây tươi/ngày (uống). Dùng ngoài giã nát vắt lấy nước.,(Không ghi rõ),(Không ghi rõ)
+9,Bán Hạ,"Củ chóc, lá ba chìa, nam tinh",Typhonium divaricatum Decne.,Araceae (Ráy),"Chữa nôn mửa, ho có đờm, hen suyễn, nhức đầu . Dùng ngoài tiêu thũng.",4-12g (đã chế biến). Dùng ngoài tùy liều.,"Vị cay, ôn, có độc.",(Không ghi rõ)
+10,Vỏ rễ cây Bông,(Không có),Gossypium sp.,Malvaceae (Bông),"Cầm máu tử cung, điều kinh, gây co bóp tử cung .",3-5g dưới dạng sắc.,(Không ghi rõ),(Không ghi rõ)
+11,Hạt Bông,(Không có),Gossypium sp.,Malvaceae (Bông),Lợi sữa.,5g dưới dạng thuốc sắc.,(Không ghi rõ),(Không ghi rõ)
+12,Cây Ngưu Tất,"cây cỏ xước, hoài ngưu tất",Achyranthes bidentata Blume.,Amaranthaceae (Giền),"Phá huyết, hành ứ (dùng sống); bổ can thận, mạnh gân cốt (chế biến). Chữa viêm khớp, đau bụng, kinh nguyệt khó khăn.",3-9g dưới dạng thuốc sắc.,"Vị chua, đắng, bình, không độc.","Can, Thận."
+13,Cây Tô Mộc,"cây gỗ vang, cây vang nhuộm, tô phượng",Caesalpinia sappan L.,Caesalpiniaceae (Vang),"Hành huyết, thông lạc, khứ ứ, chỉ thống. Chữa tử cung chảy máu, đẻ mất máu nhiều, lỵ ra máu, kinh nguyệt bế tắc.",6-12g dưới dạng thuốc sắc.,"Vị ngọt, bình, không độc.","Tâm, Can, Tỳ."
+14,Cây Rau Ngót,"bồ ngót, bù ngót, hắc diện thần",Sauropus androgynus (L) Merr.,Euphorbiaceae (Thầu dầu),"Chữa sót nhau, chữa tưa lưỡi, chữa chậm kinh.",40g lá tươi (chữa sót nhau); 5-10g lá tươi (chữa tưa lưỡi).,(Không ghi rõ),(Không ghi rõ)
+15,Đài Hái,"du qua, dây mỡ lợn, dây hái",Hodgsonia macrocarpa (Blume) Cogn.,Cucurbitaceae (Bí),(Kinh nghiệm Inđônêxya) Dầu hạt xoa bóp cho phụ nữ sau sinh; lá chữa loét mũi.,(Không dùng trong ở VN).,(Không ghi rõ),(Không ghi rõ)
+16,Cỏ Đuôi Lươn,"bồn bồn, điền thông",Philydrum lanuginosum Banks,Philydraceae,"Chữa bệnh hậu sản. Dùng ngoài rửa chỗ lở loét, sưng đau.",10-15g/ngày (dạng thuốc sắc).,(Không ghi rõ),(Không ghi rõ)
+17,Đương Quy,"tần quy, vân quy",Angelica sinensis (Oliv.) Diels,Apiaceae (Hoa tán),"Bổ huyết, hoạt huyết, điều kinh, thông kinh, nhuận tràng. Chữa kinh nguyệt không đều, đau bụng kinh, thiếu máu.",6-15g/ngày (dạng thuốc sắc hoặc rượu thuốc).,"Vị ngọt, cay, tính ôn.","Tâm, Can, Tỳ."
+18,Huyết Giác,"cây xó nhà, dứa dại, giáng ông",Pleomele cochinchinensis Merr.,Alliaceae (Hành),"Chữa ứ huyết, bị thương bầm tím, kinh nguyệt bế tắc .",10-20g/ngày (dạng thuốc sắc hoặc ngâm rượu).,(Không ghi rõ),(Không ghi rõ)
+19,Mướp (Xơ mướp),"ty qua, thiên ty qua, ty lạc",Luffa cylindrica (L.) Roem,Cucurbitaceae (Bí),"(Quả) lợi sữa. (Xơ) hoạt huyết, thông kinh, cầm máu, giải độc. (Lá) chữa bệnh zona.",5-10g xơ mướp/ngày (sắc hoặc đốt tồn tính).,"(Quả) ngọt, tính bình, không độc.",(Không ghi rõ)
+20,Nhội,"thu phong, ô dương, trọng dương mộc",Bischofia trifoliata (Roxb.) Hook.f.,Euphorbiaceae (Thầu dầu),"Chữa ỉa chảy, khí hư do trùng roi âm đạo (Trichomonas vaginalis).",20-40g lá tươi/ngày (nấu nước uống).,(Không ghi rõ),(Không ghi rõ)
+21,Ô Rô,"đại kế, thích kế, dã hồng hoa",Cirsium japonicum (DC.) Maxim,Asteraceae (Cúc),"Chữa thổ huyết, máu cam, tiểu ra máu, băng đới, chảy máu do chấn thương. Mát huyết, tiêu thũng, thông sữa .","6-12g (khô, phối hợp) hoặc 40-60g (khô, riêng) hoặc 100-180g (tươi) .","Vị ngọt, đắng, tính mát.",(Không ghi rõ)
+22,Thiên Lý,"cây hoa lý, dạ lài hương",Telosma cordata (Burm.f.) Merr.,Asclepiadaceae (Thiên lý),"Chữa lòi dom, sa dạ con. Hoa và lá non nấu canh ăn cho mát và bổ .",Dùng ngoài: 100g lá tươi giã với muối đắp .,(Không ghi rõ),(Không ghi rõ)
+23,Bạch Thược,(Không có),Paeonia lactiflora Pall.,Ranunculaceae (Mao Lương),"Nhuận gan, giảm đau, dưỡng huyết, liễm âm, lợi tiểu. Chữa đau bụng, tả lỵ, kinh nguyệt không đều .",6-12g/ngày (dạng thuốc sắc).,"Vị đắng, chua, hơi hàn.","Can, Tỳ, Phế."
+24,Xích Thược,(Không có),Paeonia lactiflora Pall. (và các loài khác),Ranunculaceae (Mao Lương),"Tán tà, hành huyết. Chữa chảy máu cam, băng huyết, bạch đới .",6-8g/lần (dạng bột).,(Tương tự Bạch Thược).,(Tương tự Bạch Thược).
+25,Bọ Mẩy,"đại thanh, đắng cay, mẩy kỳ cáy, bọ nẹt",Clerodendron cyrtophyllum Turcz.,Verbenaceae (Cỏ roi ngựa),"Dùng cho phụ nữ sau khi sinh (ăn ngon cơm, chóng lại sức). Chữa sốt phát ban, viêm amidan, lỵ .",10-15g/ngày.,(Không ghi rõ),(Không ghi rõ)
+26,"Mít (Lá, Gỗ)","mac mi, may mi, khnor",Artocarpus integrifolia L.f.,Moraceae (Dâu tằm),"(Lá) lợi sữa. (Gỗ, lá) an thần, chữa huyết áp cao, co quắp, ỉa chảy, ăn không tiêu .",Lá: 30-40g tươi. Gỗ: 6-10g mài uống.,(Không ghi rõ),(Không ghi rõ)
+27,Cửu Lý Hương,"rue fetide, văn hương",Ruta graveolens L.,Rutaceae (Cam),"Hành khí, giảm đau, hoạt huyết, tán ứ. Chữa sưng đau do chấn thương, phong thấp, điều kinh .",0.05-0.10g/ngày (điều kinh).,"Cay, khí lương, ôn, không độc.","Tâm, Phế, Thận."
+28,Duyên Hồ Sách,"huyền hồ sách, nguyên hồ",Corydalis ambigua Ch. et Schl.,Papaveraceae (Thuốc phiện),"Hoạt huyết, tán ứ, lợi khí, giảm đau. Dùng chữa đau bụng, khí hư, ho có đờm, chảy máu cam.","6-12g/ngày (sắc, bột, viên).","Tính ôn, vị cay, hơi đắng, không độc.","Phế, Can, Tỳ."
+29,Bồ công anh Việt Nam,"rau bồ cóc, diếp hoang, diếp dại",Lactuca indica L.,Asteraceae (Cúc),"Chữa sưng vú, tắc tia sữa, mụn nhọt, đinh râu, đau dạ dày, ăn uống kém tiêu .",20-40g lá tươi hoặc 10-15g lá khô.,(Không ghi rõ),(Không ghi rõ)
+30,Bồ công anh Trung Quốc,"hoàng hoa địa đính, nãi chấp thảo",Taraxacum officinale Wigg.,Asteraceae (Cúc),"Giải độc, thanh nhiệt, lương huyết, tán kết, thông sữa, lợi tiểu. Chữa sưng vú, mụn nhọt, tiểu tiện khó khăn.",4-12g/ngày (dạng thuốc sắc).,"Vị ngọt, đắng, tính hàn.","Tỳ, Vị."
+31,Chỉ Thiên,bồ công anh (cách gọi ở miền Nam),Elephantopus scaber L.,Asteraceae (Cúc),(Thông tin chi tiết ở mục riêng) .,(Thông tin chi tiết ở mục riêng),(Thông tin chi tiết ở mục riêng),(Thông tin chi tiết ở mục riêng)
+32,Kim Ngân,Nhẫn đông,Lonicera japonica Thunb.,Caprifoliaceae (Cơm cháy),"Thanh nhiệt, giải độc. Chữa mụn nhọt, rôm sảy, sởi, tả lỵ, giang mai, sốt, thấp khớp, dị ứng.","4-6g hoa hoặc 10-12g cành lá/ngày (sắc, cao, rượu).","Vị ngọt, tính hàn, không độc.","Phế, Vị, Tâm, Tỳ."
+33,Cây Ké Đầu Ngựa,"thương nhĩ, phắt ma",Xanthium strumarium L.,Asteraceae (Cúc),"Tán phong, làm ra mồ hôi. Chữa phong hàn đau nhức, phong thấp, mụn nhọt, lở loét, bướu cổ, viêm mũi.",4-5g quả hoặc 6-8g cao/ngày.,"Vị ngọt, tính ôn, hơi có độc.",Phế kinh.
+34,Hạ Khô Thảo,(Không có),Brunella vulgaris L.,Lamiaceae (Hoa môi),"Thanh can hỏa, tán uất kết, tiêu ứ, sáng mắt. Chữa loa lịch (tràng nhạc), mụn nhọt, đau mắt, cao huyết áp.",6-15g/ngày (dạng thuốc sắc).,"Vị đắng, cay, tính hàn, không độc.","Can, Đởm."
+35,Cây Xà Sàng,cây giần sàng,Cnidium monnieri (L.) Cuss.,Umbelliferae (Hoa tán),"Cường dương, ích thận, khử phong, táo thấp. Chữa liệt dương, ngứa bộ phận sinh dục, khí hư, lạnh tử cung.",4-12g/ngày (dạng thuốc sắc uống).,"Vị cay đắng, tính bình, hơi có độc.","Thận, Tam tiêu."
+36,Bưởi Bung,"cây cơm rượu, cát bối",Glycosmis pentaphylla Corr.,Rutaceae (Cam),"Giúp tiêu hóa, phục hồi sức khỏe phụ nữ sau sinh. Dùng ngoài sát trùng, chữa mụn ổ gà.",6-16g lá khô/ngày (dạng thuốc sắc).,(Không ghi rõ),(Không ghi rõ)
+37,Cây Mã Tiên Thảo,"cỏ roi ngựa, Verveine",Verbena officinalis L.,Verbenaceae (Cỏ roi ngựa),"Phá huyết, sát trùng, thông kinh. Chữa lở ngứa hạ bộ, tiêu chướng, đắp mụn nhọt, sưng vú.",6-12g khô hoặc 25-50g tươi/ngày.,"Vị đắng, hơi hàn.","Can, Tỳ ."
+38,Con Rết,"ngô công, thiên long, bách túc trùng",Scolopendra morsitans L.,Scolopendridae (Ngô công),"Trừ phong, trấn kinh, giải độc rắn cắn. Chữa mụn nhọt, chốc đầu, sang trĩ đau nhức .","Uống: 0.5g bột, 3 lần/ngày. Bôi ngoài: rượu rết, bột rết.","Vị cay, tính ôn, có độc .",Can.
+39,Sài Đất,"húng trám, ngổ núi, cúc nháp, giáp",Wedelia calendulacea (L.) Less,Asteraceae (Cúc),"Chữa mụn nhọt, lở loét, rôm sảy, chốc đầu, đau mắt, viêm bàng quang, sốt rét.",50g cây tươi/ngày.,(Không ghi rõ),(Không ghi rõ)
+40,Bạch Hạc,"kiến cò, cây lác, nam linh chi",Rhinacanthus nasuta (L.) Kurz,Acanthaceae (Ô rô),"Chữa hắc lào, chốc lở, mụn rộp loang vòng (herpes circiné), eczema mãn tính.","Rễ tươi/khô giã nhỏ ngâm rượu bôi, hoặc nấu cao bôi.",(Không ghi rõ),(Không ghi rõ)
+41,Bạch Hoa Xà,"bạch tuyết hoa, cây chiến",Plumbago zeylanica L.,Plumbaginaceae (Đuôi công),"Chữa bệnh ngoài da, nhức mỏi, sưng đau, rắn cắn, đau gan, đau xương, đau bụng.","Đắp ngoài, không kể liều lượng.","Tính ăn da, làm phồng da.",(Không ghi rõ)
+42,Bảy Lá Một Hoa,"độc cước liên, thiết đăng đài, chi hoa",Paris polyphylla Sm.,Liliaceae (Hành),"Thanh nhiệt giải độc. Chữa mụn nhọt, viêm tuyến vú, sốt rét, ho lao, hen suyễn, rắn độc cắn.",4-12g/ngày (dạng thuốc sắc).,"Vị ngọt, hơi cay, tính bình, không độc.",(Không ghi rõ)
+43,Bèo Cái,"bèo ván, bèo tai tượng, thủy phù liên",Pistia stratiotes L.,Araceae (Ráy),"Chữa mụn nhọt, mẩn ngứa (ngoài); ho, hen, suyễn, thông kinh, lợi tiểu (trong).",50-100g tươi/ngày.,(Không ghi rõ),(Không ghi rõ)
+44,Bồ Cu Vẽ,"bọ mắm, gà, bò long anh, sầu vẽ",Breynia fruticosa Hool. F.,Euphorbiaceae (Thầu dầu),"Chữa rắn cắn, cam máu, vú có chất sần, mụn nhọt, vết lở loét.","30-40g lá tươi giã vắt nước uống, bã đắp.",(Không ghi rõ),(Không ghi rõ)
+45,Bùng Bục,"bục bục, bông bét, cây lá ngón kok po hou",Mallotus barbatus Muell. Arg.,Euphorbiaceae (Thầu dầu),"Dùng lá ép đắp để dễ đẻ. Lá có tác dụng sát trùng, làm lên da non ở mụn nhọt.","Dùng ngoài, không kể liều lượng.",(Không ghi rõ),(Không ghi rõ)
+46,Cà dại hoa vàng,"cây cà gai, cây cựa, lão thử lặc",Argemone mexicana L.,Papaveraceae (Thuốc phiện),"Gây say, có tác dụng tẩy. Đắp mụn cơm, bệnh ngoài da. Hạt dùng làm thuốc gây nôn.",(Không dùng trong).,(Không ghi rõ),(Không ghi rõ)
+47,Cào bản,(Không có),Ligusticum jeholense Nak. et Kitaga,Apiaceae (Hoa tán),"Chữa nhức đầu, phong hàn, thấp tà, trùng lỵ, ung nhọt, sang lở. Dùng gội đầu cho sạch gầu.",3-6g/ngày (dạng thuốc sắc).,"Vị cay, ôn, không độc.",(Không ghi rõ)
+48,Chó đẻ răng cưa,"diệp hạ châu, diệp hòe thái, lão nha châu",Phyllanthus urinaria L.,Euphorbiaceae (Thầu dầu),"Chữa bệnh gan, chữa sốt, đau mắt, rắn cắn.","20-40g cây tươi/ngày, sao khô sắc đặc uống.",(Không ghi rõ),(Không ghi rõ)
+49,Cúc liên chỉ dại,"cây éch cành, Camomille sauvage",Parthenium hysterophorus L.,Compositae (Cúc),"Chữa nhức đầu, bồi bổ, hạ sốt.","(Không rõ, có thể độc).",(Không ghi rõ),(Không ghi rõ)
+50,Dâm bụt,"bụp (miền Nam), xuyên cân bì",Hibiscus rosa-sinensis L.,Malvaceae (Bông),"(Lá, hoa) đắp mụn nhọt đang nung mủ. (Vỏ rễ) chữa xích và bạch ly, bạch đới khí, rửa mụn nhọt.","Dùng ngoài, không kể liều lượng.",(Không ghi rõ),(Không ghi rõ)
+51,Ké hoa đào,"phan thiên hoa, tiêu phan thán, bái cúc",Urena lobata L.,Malvaceae (Bông),"Tán phong, hoạt huyết, hạ sốt. Chữa cảm mạo, mình nóng không có mồ hôi, chân tay đau buốt.",40-80g cây khô/ngày.,"Vị nhạt, hơi ngọt, tính lương, không độc.",(Không ghi rõ)
+52,Ké hoa vàng,"ké đồng tiền, bạch bối hoàng hoa niêm",Sida rhombifolia L.,Malvaceae (Bông),"Làm thuốc mát chữa mụn nhọt, tiểu tiện nóng đỏ, đái dắt, sốt, lỵ.",40-80g tươi hoặc 20-40g khô/ngày.,(Không ghi rõ),(Không ghi rõ)
+53,Khế,"khế com, khế giang, ngũ lăng tử",Averrhoa carambola L.,Oxalidaceae (Chua me đất),"(Lá) chữa mẩn ngứa, lở loét, sưng đau. (Quả) ép uống chữa bệnh scobut (thiếu vitamin C).",Lá: 100-150g nấu nước xông và tắm.,"(Lá) vị chua, tính sáp, độc. (Quả) chua, ngọt.",(Không ghi rõ)
+54,Liên kiều,"trúc căn, hoàng thọ đan, hạn liên",Forsythia suspensa Vahl.,Oleaceae (Nhài),"Thanh nhiệt, giải độc, tiêu viêm, tan mủ. Chữa mụn nhọt, ghẻ lở, tràng nhạc, ban, sưng vú, thông kinh nguyệt.",6-12g/ngày (dạng thuốc sắc).,"Vị đắng, tính hàn, không độc.","Tâm, Đởm, Tam tiêu, Đại trường."
+55,Máu chó,muscadier à suif,Knema corticosa Lour.,Myristicaceae (Nhục đậu khấu),Hạt ép lấy dầu dùng chữa ghẻ.,Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+56,Lá móng tay,"cây lá móng, móng tay nhuộm, chỉ giáp hoa",Lawsonia inermis L.,Lythraceae (Tử vi),"Nhuộm móng tay. Chữa hắc lào, da vàng, bệnh hủi, lở loét, bệnh gan, bệnh tử cung, lở miệng, bại liệt.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+57,Mù u,"đồng hồ, kụng tung",Calophyllum inophyllum L.,Măng cụt,"Chữa mụn nhọt, ghẻ, bỏng. Thụt để điều trị trĩ, viêm loét, sa dạ con. Xoa bóp trị thấp khớp.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+58,Niệt gió,"cò gối là, gió niệt, gió giổi, thiết giang",Wikstroemia viridiflora Meissn,Thymeleaceae (Trầm),"Sát trùng, chữa mụn nhọt. Đắp lên những nơi sưng đau.",8-12g rễ hay lá/ngày.,"Vị đắng, hơi cay, tính lạnh, có độc.",(Không ghi rõ)
+59,Phù dung,"mộc liên, địa phù dung",Hibiscus mutabilis L.,Malvaceae (Bông),Đắp mụn nhọt đang mưng mủ để hút mủ và làm đỡ đau.,Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+60,Dầu rái trắng,"dầu nước, nhang, yang may vang",Dipterocarpus alatus Roxb.,Dipterocarpaceae (Dầu),Chữa vết loét.,Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+61,Cây rau má lá rau muống,"hồng bối diệp, dương đề thảo, nhất điểm hồng",Emilia sonchifolia (L) DC.,Asteraceae (Cúc),"Đắp chữa mụn nhọt; sắc uống chữa ho lâu ngày, ho lao, sốt. Nước sắc nhỏ mắt chữa đau mắt, nhỏ tai bị viêm.","30-40g tươi, có khi hơn. Dùng ngoài không kể liều.",Vị đắng.,(Không ghi rõ)
+62,Rau má ngọ,"rau song chua dây, thồm lồm gai",Polygonum perfoliatum L.,Polygonaceae (Rau răm),"Giã nát đắp lên mụn nhọt, nơi rắn cắn, sâu bọ cắn.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+63,Tần cửu (thanh táo),"tần cừu, tần qua, tấn giao, thuốc trặc",Justicia gendarussa L.,Acanthaceae (Ô rô),"Chữa tê thấp, đau nhức xương, gân cốt sưng đau, ho. Đắp nơi sưng đau, gãy xương.",12-16g/ngày (dạng thuốc sắc).,"Vị cay, đắng, tính ôn.","Can, Thận."
+64,Thanh đại,"chàm, chàm mèo, mạy sàm",Indigofera tinctoria L.,Papilionaceae (Cánh bướm),"Chữa trẻ em lên kinh phát nóng mê sảng, giải độc, chữa lở loét, mụn nhọt.",2-4g bột/ngày. Dùng ngoài không kể liều.,"Vị đắng, tính hàn, không độc.","Tâm, Phế, Can."
+65,Thuốc bỏng,"cây sống đời, trường sinh, diệp sinh căn",Kalanchoe pinata (Lamk.) Pers,Crassulaceae (Thuốc bỏng),"Chữa bỏng, cầm máu, mụn nhọt, viêm loét dạ dày, trĩ nội, đi lỵ, viêm ruột.",Trong: 20-40g lá tươi/ngày. Ngoài: Giã nát đắp.,"Vị nhạt, hơi chua, tính mát.",(Không ghi rõ)
+66,Thuốc giấu,"cỏ xước, ngưu tất nam",Achyranthes aspera L.,Amaranthaceae (Giền),"Chữa bệnh viêm cầu thận, phù thũng, thấp khớp, huyết áp cao, lợi tiểu.",15-20g rễ hoặc toàn cây/ngày (sắc).,"Vị đắng, chua, tính bình.",(Không ghi rõ)
+67,Trầu không,"trầu, thược tương, mô-lu",Piper betle L.,Piperaceae (Hồ tiêu),"Chữa hàn thấp, nhức mỏi, đau bụng, đầy hơi, vết thương, mụn nhọt, lở loét. Sát trùng.",Trong: 8-10g/ngày (sắc). Ngoài: không kể liều.,"Vị cay nồng, mùi thơm hắc, tính ấm.","Phế, Tỳ, Vị."
+68,Thơm lồm,"bù dẻ, đại kế, nghể",Polygonum chinense L.,Polygonaceae (Rau răm),"Giải độc, tiêu viêm. Chữa lỵ, tiêu chảy, viêm ruột, viêm hầu họng, viêm amidan, mụn nhọt, rắn cắn.",Trong: 10-15g/ngày (sắc). Ngoài: giã nát đắp.,(Không ghi rõ),(Không ghi rõ)
+69,Đơn buốt,"đơn kim, quỷ châm thảo, cúc áo",Bidens pilosa L.,Asteraceae (Cúc),"Chữa mẩn ngứa, mày đay, dị ứng, viêm họng, viêm ruột, lỵ, tiêu chảy, đau răng.",10-15g/ngày (sắc).,"Vị đắng, nhạt, hơi cay, tính mát.",(Không ghi rõ)
+70,Chè vằng,"cước man, dây vắng, mỏ sẻ",Jasminum subtriplinerve Blume,Oleaceae (Nhài),"Chữa rắn cắn, mụn nhọt. Giúp phụ nữ sau đẻ ăn ngon cơm, chóng lại sức.",Sắc uống không kể liều lượng.,(Không ghi rõ),(Không ghi rõ)
+71,Cây ráy,(Không có),Alocasia macrorrhizos (L.) G.Don,Araceae (Ráy),"Chữa mụn nhọt, ghẻ, sưng bàn tay bàn chân. Chữa sốt rét, bệnh gút (thống phong).",Trong: 8-12g thân rễ khô/ngày (sắc). Ngoài: giã đắp.,"Vị nhạt, tính hàn, có độc.",(Không ghi rõ)
+72,Ba chạc,"chè đắng, chè cỏ, ba giẳng",Evodia lepta (Spreng) Merr.,Rutaceae (Cam),"Chữa mụn nhọt, ghẻ lở, eczema. Giúp phụ nữ sau đẻ ăn ngon cơm.",10-15g cành lá hoặc rễ/ngày (sắc).,"Vị đắng, mùi thơm, tính lạnh.",(Không ghi rõ)
+73,Bạc thau,"bạc sau, lá bạc, bạch diện diệp",Argyreia acuta Lour.,Convolvulaceae (Bìm bìm),"Chữa phụ nữ đẻ bị phù thũng, khí hư, bạch đới.",10-15g/ngày (sắc).,"Vị chua, hơi chát, tính bình.",(Không ghi rõ)
+74,Bèo tây,"lục bình, bèo Nhật Bản",Eichhornia crassipes Solms,Pontederiaceae (Bèo tây),"Chữa sưng tấy, mưng mủ, viêm hạch bạch huyết, ho hen.",Trong: 10-15g/ngày. Ngoài: giã đắp.,(Không ghi rõ),(Không ghi rõ)
+75,Bứa,(Không có),Garcinia oblongifolia Champ.,Clusiaceae (Bứa),"Chữa mẩn ngứa, lở loét, mụn nhọt, vết thương.",Dùng nhựa cây bôi ngoài.,(Không ghi rõ),(Không ghi rõ)
+76,Dây đòn gánh,(Không có),Gouania leptostachya DC.,Rhamnaceae (Táo ta),"Giặt quần áo, gội đầu sạch gầu. Chữa mụn nhọt, lở ngứa.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+77,Đại phong tử,(Không có),Hydnocarpus anthelminthica Pierre,Flacourtiaceae (Bồ quân),"Chữa bệnh hủi (phong), bệnh ngoài da, ghẻ lở, giang mai.",0.3-1g/ngày (dạng viên).,"Vị cay, tính nóng, có độc.",(Không ghi rõ)
+78,Đơn răng cưa,(Không có),Maesa indica Wall,Myrsinaceae (Đơn nem),Chữa rắn độc cắn.,"20-40g rễ tươi giã vắt nước uống, bã đắp.",(Không ghi rõ),(Không ghi rõ)
+79,Đơn tướng quân,"bạch anh, bần biển, mạ dại",Clerodendron inerme (L.) Gaertn,Verbenaceae (Cỏ roi ngựa),"Chữa mụn nhọt, lở ngứa, chốc đầu.","Dùng ngoài, không kể liều lượng, giã đắp hoặc nấu nước rửa.",(Không ghi rõ),(Không ghi rõ)
+80,Găng tu hú,"găng gai, mã nhãn tử, sơn thạch lựu",Catunaregam spinosa (Thunb.) Tirveng,Rubiaceae (Cà phê),"(Quả) gây nôn, chữa sốt rét. (Vỏ cây) chữa tiêu chảy, đi lỵ. (Lá) đắp lở loét, mụn nhọt.",1-2g quả (gây nôn); 1-1.5g vỏ cây (chữa lỵ).,(Không ghi rõ),(Không ghi rõ)
+81,Huyết kiệt,(Không có),Dracaena cambodiana Pierre,Dracaenaceae (Huyết giác),"Chữa vết thương, cầm máu, an thần, chữa đau bụng.","0.2-0.5g/lần, 2-3 lần/ngày.",(Không ghi rõ),(Không ghi rõ)
+82,Hương điệp,"é rừng, é quế, é to, é ta, húng dổi",Hyptis suaveolens (L.) Poit,Lamiaceae (Hoa môi),"Chữa cảm sốt, nhức đầu. Dùng ngoài chữa mụn nhọt, ghẻ lở.",6-12g/ngày (dạng thuốc sắc).,(Không ghi rõ),(Không ghi rõ)
+83,Keo nước hoa,"cây keo, bông keo",Acacia farnesiana Willd,Mimosaceae (Trinh nữ),"(Lá) chữa lở loét. (Rễ) đau răng, nhức xương. (Hoa) an thần, giúp tiêu hóa. (Quả) chữa lỵ, bạch đới.",Hoa: 3-5g. Quả: 10-15g. Rễ: 6-12g.,(Không ghi rõ),(Không ghi rõ)
+84,Khoai nưa,"nưa, củ nưa",Amorphophallus rivieri Durieu,Araceae (Ráy),"Chữa mụn nhọt độc, rắn cắn.",Dùng ngoài: củ tươi giã nhỏ đắp.,"Vị cay, tính ôn, có độc.",(Không ghi rõ)
+85,Cây la,"bướm bướm, bươm bướm, cây hoa lá trắng",Mussaenda pubescens Ait.f.,Rubiaceae (Cà phê),"Giải độc, tiêu viêm. Chữa ho, viêm họng, viêm amidan.",15-30g cành lá hoặc 10-15g rễ/ngày (sắc).,"Vị ngọt, tính mát.",(Không ghi rõ)
+86,Cà tàu,cà vú dê,Solanum mammosum L.,Solanaceae (Cà),"Đắp chữa mụn nhọt, chỗ da bị phồng.",Dùng ngoài: quả giã nhỏ đắp.,(Không ghi rõ),(Không ghi rõ)
+87,Lân tơ uyn,"kinh giới núi, hoắc hương núi",Clinopodium polycephalum (Vaniot) C.Y.Wu,Lamiaceae (Hoa môi),"Chữa cảm sốt, nhức đầu, đau bụng, ăn không tiêu, mụn nhọt, lở ngứa.",6-12g/ngày (dạng thuốc sắc).,(Không ghi rõ),(Không ghi rõ)
+88,Lu lu đực,"thù lù, lồng đèn, tầm bóp",Solanum nigrum L.,Solanaceae (Cà),"Thanh nhiệt, giải độc, lợi tiểu, tiêu viêm. Chữa cảm sốt, viêm họng, viêm gan, xơ gan cổ trướng, mụn nhọt.",15-30g/ngày (sắc). Dùng ngoài giã đắp.,"Vị đắng, tính hàn, có ít độc.",(Không ghi rõ)
+89,Mật quỹ,"rau tàu bay, kim thất",Gynura crepidioides Benth.,Asteraceae (Cúc),"Chữa sốt, lở ngứa, mụn nhọt.",10-15g/ngày (sắc).,(Không ghi rõ),(Không ghi rõ)
+90,Muồng truồng,(Không có),Cassia nuda H.Bn,Caesalpiniaceae (Vang),"Chữa hắc lào, lở ngứa, mụn nhọt.","Dùng ngoài: lá tươi giã nát, thêm muối, xát vào.",(Không ghi rõ),(Không ghi rõ)
+91,Rong mơ,"hải tảo, rau mơ",Sargassum sp.,Sargassaceae (Rong mơ),"Chữa bướu cổ, tràng nhạc, lợi tiểu.",6-12g/ngày (sắc).,"Vị đắng, mặn, tính hàn.","Can, Vị, Thận."
+92,Sần thuyền,(Không có),Ilex rotunda Thunb.,Aquifoliaceae (Nhựa ruồi),"Chữa bỏng, lở loét, mụn nhọt.","Dùng ngoài: Vỏ cây đốt thành than, tán nhỏ, trộn dầu vừng bôi.","Vị đắng, tính hàn.",(Không ghi rõ)
+93,Thóc lép,(Không có),Desmodium heterophyllum DC.,Papilionaceae (Cánh bướm),"Chữa mụn nhọt, lở ngứa.","Toàn cây giã nát, thêm nước, vắt lấy nước cốt bôi.",(Không ghi rõ),(Không ghi rõ)
+94,Tỏi đỏ,"sâm đại hành, hành đỏ, tỏi Lào",Eleutherine bulbosa (Mill.) Urb,Iridaceae (La dơn),"Bổ máu, cầm máu, an thần. Chữa thiếu máu, vàng da, nhức đầu, mệt mỏi, ho ra máu, chảy máu cam.",4-12g/ngày (sắc).,"Vị ngọt nhạt, tính mát.",(Không ghi rõ)
+95,Tùng hương,nhựa thông,Pinus sp.,Pinaceae (Thông),"Sát trùng, chữa mụn nhọt, ghẻ lở.",Dùng ngoài chế cao dán nhọt.,"Vị đắng, tính ôn.","Can, Tỳ."
+96,Vạn niên thanh,(Không có),Aglaonema sp.,Araceae (Ráy),"Chữa rắn cắn, mụn nhọt, lở loét.","Dùng ngoài, không kể liều.","Vị đắng, tính hàn, có độc.",(Không ghi rõ)
+97,Táo rừng,"táo gai, nụ áo, hàm chuột",Ziziphus oenoplia Mill,Rhamnaceae (Táo ta),"Chữa mụn nhọt, lở ngứa.",15-30g rễ hoặc vỏ thân/ngày (sắc).,"Vị chua, chát, tính bình.",(Không ghi rõ)
+98,Sảng,"trôm, sang sé, che van (Tày)",Sterculia lanceolata Cav.,Sterculiaceae (Trôm),"Chữa mụn nhọt, lở ngứa, ghẻ.",Dùng ngoài: lá tươi giã đắp hoặc nấu nước tắm.,(Không ghi rõ),(Không ghi rõ)
+99,Hàn the,"bồn sa, bàng sa, nguyệt thạch",Borax,(Khoáng vật),"Sát trùng. Chữa sưng họng, loét miệng, lở lưỡi.",1-2g/ngày. Dùng ngoài.,"Vị ngọt, mặn, tính mát.","Phế, Vị."
+100,Cà chua,(Không có),Lycopersicum esculentum Mill.,Solanaceae (Cà),"Chữa mụn nhọt, lở loét, bỏng.",Dùng ngoài: quả giã nát đắp.,"Vị ngọt, chua, tính mát.",(Không ghi rõ)
+101,Cây dầu giun,"cây rau muối, cỏ muối, bit-ton",Chenopodium ambrosioides L.,Chenopodiaceae (Rau muối),"Trị giun đũa, giun móc, giun kim.",Hạt: 10-20g. Dầu: 1ml (người lớn) .,(Không ghi rõ),(Không ghi rõ)
+102,Sử quân tử,"quả nấc, quả giun, dây giun",Quisqualis indica L.,Combretaceae (Bàng),"Chữa giun đũa, giun kim. Chữa chứng cam tích ở trẻ em.","3-5 quả (hạt)/ngày (trẻ em), 10 quả/ngày (người lớn).","Vị ngọt, tính ôn.","Tỳ, Vị."
+103,Cây keo dậu,"bồ kết dại, bọ chét, bình linh",Leucaena leucocephala (Lamk.) de Wit,Mimosaceae (Trinh nữ),Trị giun đũa.,"25-50g hạt/ngày (người lớn), 10g (trẻ em).",(Không ghi rõ),(Không ghi rõ)
+104,Cây bách bộ,"dây ba mươi, củ ba mươi",Stemona tuberosa Lour.,Stemonaceae (Bách bộ),"Chữa ho lâu ngày, ho lao. Trị giun kim. Diệt chấy, rận, bọ chét.",6-12g/ngày (sắc trị ho).,"Vị ngọt, đắng, tính hơi ôn.",Phế.
+105,Xoan,"xoan nhà, sầu đâu, khổ luyện",Melia azedarach L.,Meliaceae (Xoan),"Trị giun đũa, giun kim. Chữa chốc đầu, lở ngứa.",4-12g vỏ rễ/ngày (sắc).,"Vị đắng, tính hàn, có độc.","Can, Vị."
+106,Cây thùn mũn,"vư vi, toan tương tử",Embelia ribes Burm.f.,Myrsinaceae (Đơn nem),"Trị sán, giun đũa, giun kim.",3-6g quả/ngày (dạng bột).,"Vị cay, tính ôn.",(Không ghi rõ)
+107,Hạt bí ngô,nam qua tử,Cucurbita sp.,Cucurbitaceae (Bí),Trị sán.,30-100g hạt/ngày.,"Vị ngọt, tính ôn.","Tỳ, Vị."
+108,Cây chân bầu,"sakè, sakae, trâm bầu",Combretum quadrangulare Kurz,Combretaceae (Bàng),"Trị giun đũa, giun kim.",3-5g hạt/ngày (thuốc sắc).,(Không ghi rõ),(Không ghi rõ)
+109,Cây thạch lựu,lựu,Punica granatum L.,Punicaceae (Lựu),"Trị sán (dùng vỏ rễ, vỏ thân, vỏ cành).",15-60g vỏ tươi/ngày (sắc).,"Vị chát, đắng, tính ôn.",(Không ghi rõ)
+110,Cây cau (Hạt),"binh lang, tân lang",Areca catechu L.,Palmae (Cau),"Trị sán, giun đũa, giun kim. Giúp tiêu hóa, chữa viêm ruột, lỵ.",4-6g/ngày (trị giun sán).,"Vị cay, đắng, tính ôn.","Vị, Đại tràng."
+111,Cây rùm nao,(Không có),Ormosia anomala Prain,Papilionaceae (Cánh bướm),Trị giun.,5-7 hạt/ngày (sao vàng tán nhỏ).,(Không ghi rõ),(Không ghi rõ)
+112,Quán chúng,(Không có),Cyrtomium fortunei J.Sm,Polypodiaceae (Dương xỉ),"Trị sán, giun kim, giun móc. Chữa băng huyết, rong kinh.",4-10g/ngày (sắc).,"Vị đắng, tính hơi hàn.","Can, Tỳ."
+113,Mặc nưa,(Không có),Diospyros mollis Griff,Ebenaceae (Thị),"Trị giun kim, giun đũa. Dùng nhuộm vải lụa thành màu đen .",2-3g bột quả/ngày.,(Không ghi rõ),(Không ghi rõ)
+114,Cây sầu đâu rừng,"cây khổ sâm, nha đạm tử",Brucea javanica (L.) Merr.,Simaroubaceae (Thanh thất),"Chữa lỵ amip, sốt rét, giun.",10-15 hạt/ngày (người lớn).,"Vị đắng, tính hàn, có ít độc.",Đại tràng.
+115,Tỏi,đại toán,Allium sativum L.,Alliaceae (Hành),"Chữa lỵ amip, lỵ trực trùng. Giúp tiêu hóa, chữa cao huyết áp, ho, tả, cảm cúm.",5-15g/ngày.,"Vị cay, tính ôn.","Tỳ, Vị, Phế."
+116,Mộc hoa trắng,"cây sừng trâu, mức hoa trắng",Holarrhena antidysenterica (L.) Wall.,Apocynaceae (Trúc đào),Chữa lỵ amip.,Hạt: 10-15g/ngày. Vỏ: 4-6g/ngày.,(Không ghi rõ),(Không ghi rõ)
+117,Rau sam,mã xỉ hiện,Portulaca oleracea L.,Portulacaceae (Rau sam),"Chữa lỵ trực trùng. Dùng ngoài chữa mụn nhọt, lở loét.",30-100g tươi/ngày (sắc).,"Vị chua, tính hàn, không độc.","Tâm, Can, Tỳ, Đại tràng."
+118,Mơ tam thể,"mơ tròn, dây mơ, dây thối địt",Paederia foetida L.,Rubiaceae (Cà phê),"Chữa lỵ trực trùng, giun kim, giun đũa. Giúp tiêu hóa.",15-20 lá/ngày.,"Vị hơi đắng, tính mát.",(Không ghi rõ)
+119,Cây chè (Lá),trà,Thea sinensis L.,Theaceae (Chè),"Chữa lỵ trực trùng. Kích thích thần kinh, lợi tiểu, giúp tiêu hóa.",10-20g lá/ngày (sắc đặc).,"Vị đắng, chát, tính mát.","Tâm, Can, Tỳ, Phế, Thận."
+120,Vỏ lựu,thạch lựu bì,Punica granatum L.,Punicaceae (Lựu),"Chữa lỵ trực trùng, lỵ amip.",15-20g/ngày (sắc).,"Vị chua, chát, tính ôn.",Đại tràng.
+121,Hoàng liên,(Không có),Coptis teeta Wall.,Ranunculaceae (Mao Lương),"Chữa lỵ trực trùng, lỵ amip, đau mắt, viêm ruột, viêm dạ dày, mụn nhọt.",0.5-2g/ngày (sắc).,"Vị đắng, tính hàn.","Tâm, Can, Vị, Đại tràng."
+122,Hoàng liên gai,(Không có),Berberis wallichiana DC.,Berberidaceae (Hoàng liên gai),"Chữa lỵ, tiêu chảy, vàng da.",4-12g/ngày (sắc).,(Tương tự Hoàng liên).,(Tương tự Hoàng liên).
+123,Hoàng liên ô rô,(Không có),Mahonia bealei Carr.,Berberidaceae (Hoàng liên gai),"Thanh nhiệt, giải độc. Chữa lỵ, đau mắt.",4-12g/ngày (sắc).,(Tương tự Hoàng liên).,(Tương tự Hoàng liên).
+124,Hoàng đằng,(Không có),Fibraurea tinctoria Lour.,Menispermaceae (Tiết dê),"Chữa lỵ, viêm ruột, đau mắt, sốt.",4-6g/ngày (sắc).,"Vị đắng, tính hàn.","Tâm, Can."
+125,Hoàng đằng chân vịt,(Không có),Tinospora capillipes Gagnep,Menispermaceae (Tiết dê),"Chữa lỵ, viêm ruột, đau mắt, sốt (tương tự Hoàng đằng).",4-6g/ngày (sắc).,(Tương tự Hoàng đằng).,(Tương tự Hoàng đằng).
+126,Vàng đằng,(Không có),Coscinium usitatum Pierre,Menispermaceae (Tiết dê),"Chữa lỵ, viêm ruột, đau mắt, sốt (tương tự Hoàng đằng).",4-6g/ngày (sắc).,(Tương tự Hoàng đằng).,(Tương tự Hoàng đằng).
+127,Thổ hoàng liên,(Không có),Thalictrum foliolosum DC.,Ranunculaceae (Mao Lương),"Chữa lỵ, đau mắt.",1-4g/ngày (sắc).,(Tương tự Hoàng liên).,(Tương tự Hoàng liên).
+128,Hoàng đằng loong trơn,(Không có),Arcangelisia sp.,Menispermaceae (Tiết dê),"Tương tự Hoàng đằng (chữa lỵ, viêm ruột, đau mắt, sốt).",Tương tự Hoàng đằng (4-6g/ngày).,(Tương tự Hoàng đằng).,(Tương tự Hoàng đằng).
+129,Hoàng bá,(Không có),Phellodendron amurense Rupr.,Rutaceae (Cam),"Chữa lỵ, tiêu chảy, vàng da, mộng tinh, đái ra huyết, lở ngứa.",4-12g/ngày (dạng thuốc sắc).,"Vị đắng, tính hàn.","Thận, Bàng quang."
+130,Cỏ sữa nhỏ lá,"vú sữa đất, cẩm địa",Euphorbia thymifolia L.,Euphorbiaceae (Thầu dầu),"Chữa lỵ trực trùng, lỵ amip.",50-100g tươi hoặc 10-20g khô/ngày (sắc).,"Vị chua, tính hàn.",(Không ghi rõ)
+131,Ba chẽ,"vẩy rồng, tràng quả ba cạnh",Desmodium triquetrum (L.) DC.,Papilionaceae (Cánh bướm),"Chữa lỵ, rắn cắn.",10-20g/ngày (dạng thuốc sắc).,"Vị ngọt, nhạt, tính mát.",(Không ghi rõ)
+132,Bàng (Lá và búp non),(Không có),Terminalia catappa L.,Combretaceae (Bàng),"Chữa lỵ, tiêu chảy, sâu quảng, mụn nhọt.",6-12g/ngày (dạng thuốc sắc).,Vị chát.,(Không ghi rõ)
+133,Cẩm xà lặc,(Không có),Salacia prinoides DC.,Celastraceae (Dây gối),Chữa lỵ.,10-15g rễ/ngày (dạng thuốc sắc).,(Không ghi rõ),(Không ghi rõ)
+134,Điều nhuộm,"cây cà ri, chàm ngung",Bixa orellana L.,Bixaceae (Điều nhuộm),"Chữa lỵ, sốt.",6-12g lá/ngày (dạng thuốc sắc).,(Không ghi rõ),(Không ghi rõ)
+135,Đơn đỏ,"đơn mặt trời, liễu đỏ",Excoecaria cochinchinensis Lour.,Euphorbiaceae (Thầu dầu),"Chữa lỵ, đi tả lâu ngày, mẩn ngứa.",6-12g lá khô/ngày (dạng thuốc sắc).,"Vị đắng, ngọt, tính mát.",(Không ghi rõ)
+136,Đơn trăng (Hé mọ),(Không có),Psychotria reevesii Wall,Rubiaceae (Cà phê),"Chữa lỵ, sốt, đau bụng.",10-15g/ngày (dạng thuốc sắc).,(Không ghi rõ),(Không ghi rõ)
+137,Mộc nhĩ,"nấm mèo, nấm tai mèo",Auricularia auricula-judae (L.) Schroet.,Auriculariaceae (Mộc nhĩ),"Chữa lỵ, trĩ.","6-12g/ngày (sao đen, sắc).","Vị ngọt, tính bình.",Đại tràng.
+138,Phượng nhỡn thảo,(Không có),Dryopteris fortunei J.Sm,Polypodiaceae (Dương xỉ),"Chữa lỵ, giun sán.",6-12g/ngày (dạng thuốc sắc).,(Không ghi rõ),(Không ghi rõ)
+139,San sư cô,(Không có),Knoxia corymbosa Willd,Rubiaceae (Cà phê),"Chữa lỵ, đau bụng.",10-15g/ngày (dạng thuốc sắc).,(Không ghi rõ),(Không ghi rõ)
+140,Seo gà,mào gà trắng,Celosia argentea L.,Amaranthaceae (Giền),"Chữa lỵ ra máu, xích bạch đới, rong kinh.",6-12g hạt/ngày (dạng thuốc sắc).,"Vị đắng, tính hàn.","Đại tràng, Can."
+141,Vọng cách,"cách, lá cách",Premna integrifolia L.,Verbenaceae (Cỏ roi ngựa),"Chữa lỵ, giúp tiêu hóa.",10-15g rễ hoặc lá/ngày (sắc).,"Vị hơi đắng, tính mát.",(Không ghi rõ)
+142,Đậu rựa,(Không có),Canavalia ensiformis DC.,Papilionaceae (Cánh bướm),Chữa lỵ.,15-30g hạt/ngày (dạng thuốc sắc).,(Không ghi rõ),(Không ghi rõ)
+143,Gừng dại,"gừng gió, ngải xanh",Zingiber cassumunar Roxb.,Zingiberaceae (Gừng),"Chữa lỵ, đau bụng.",4-8g/ngày (dạng thuốc sắc).,"Vị đắng, cay, tính ấm.",(Không ghi rõ)
+144,Săng lẻ,bằng lăng lông,Lagerstroemia tomentosa Presl.,Lythraceae (Tử vi),Chữa lỵ.,15-25g vỏ thân/ngày (sắc).,(Không ghi rõ),(Không ghi rõ)
+145,Mã đề,"xa tiền, bông lá đề",Plantago major L.,Plantaginaceae (Mã đề),"Thông tiểu tiện, chữa ho, tiêu đờm, lỵ, đau mắt đỏ .",6-12g/ngày (dạng thuốc sắc).,"Vị ngọt, tính hàn.","Can, Thận, Bàng quang."
+146,Cây trạch tả,mã đề nước,Alisma plantago-aquatica L.,Alismataceae (Trạch tả),"Thông tiểu tiện, chữa thủy thũng, viêm thận, đái dắt, đi tả, đái ra mỡ .",6-9g/ngày (dạng thuốc sắc).,"Vị ngọt, tính hàn.","Thận, Bàng quang."
+147,Đại phúc bì,"vỏ quả cau, phúc bì",Areca catechu L.,Palmae (Cau),"Thông tiểu tiện, chữa thủy thũng, bụng đầy trướng .",6-9g/ngày (dạng thuốc sắc).,"Vị cay, tính hơi ôn.","Tỳ, Vị."
+148,Cỏ chỉ,"cỏ gà, hoàng nha căn",Cynodon dactylon (L.) Pers.,Poaceae (Lúa),"Thông tiểu tiện, chữa sốt, sốt rét .",20-40g thân rễ/ngày.,(Không ghi rõ),(Không ghi rõ)
+149,Cỏ tranh (Thân rễ),bạch mao căn,Imperata cylindrica (L.) P.Beauv.,Poaceae (Lúa),"Thông tiểu, chữa sốt, chảy máu cam, tiểu ra máu, lỵ .",10-40g/ngày.,"Vị ngọt, tính hàn.","Tâm, Tỳ, Vị."
+150,Cây râu mèo,(Không có),Orthosiphon aristatus (Blume) Miq.,Lamiaceae (Hoa môi),"Thông tiểu, chữa sỏi thận, sỏi bàng quang .",5-12g/ngày (dạng hãm).,(Không ghi rõ),(Không ghi rõ)
+151,Râu ngô,(Không có),Zea mays L.,Poaceae (Lúa),"Thông tiểu, thông mật. Chữa sỏi thận, sỏi mật, viêm túi mật, vàng da, huyết áp cao .",10-20g/ngày.,"Vị ngọt, tính bình.","Thận, Bàng quang."
+152,Cây áctisô,(Không có),Cynara scolymus L.,Asteraceae (Cúc),"Thông mật, lợi tiểu, hạ cholesterol máu. Chữa bệnh gan, thận .",Lá tươi: 10-20g/ngày. Lá khô: 5-10g/ngày.,"Vị đắng, tính mát.","Can, Đởm."
+153,Phục linh,(Không có),Poria cocos (Schw.) Wolf,Polyporaceae (Lỗ),"Lợi tiểu, chữa thủy thũng, an thần .",5-10g/ngày.,"Vị ngọt, nhạt, tính bình.","Tâm, Phế, Thận, Tỳ, Vị."
+154,Bấc đèn,đăng tâm thảo,Juncus effusus L.,Juncaceae (Bấc),"Lợi tiểu, thanh tâm, giáng hỏa. Chữa mất ngủ, thủy thũng .",1-2g/ngày.,"Vị ngọt, tính hàn.","Tâm, Phế, Tiểu tràng."
+155,Cây thông thảo,(Không có),Tetrapanax papyriferus (Hook.) K. Koch,Araliaceae (Nhân sâm),"Lợi tiểu, thông sữa .",3-4g/ngày.,"Vị ngọt, nhạt, tính hàn.","Phế, Vị."
+156,Dành dành,"chi tử, mác lạng san",Gardenia jasminoides Ellis,Rubiaceae (Cà phê),"Lợi tiểu, thanh nhiệt, chữa sốt, vàng da, đau mắt đỏ, chảy máu cam .",6-12g/ngày.,"Vị đắng, tính hàn.","Tâm, Phế, Tam tiêu."
+157,Nghệ,"uất kim, khương hoàng",Curcuma longa L.,Zingiberaceae (Gừng),"Lợi mật, chữa viêm gan, vàng da. Chữa đau dạ dày, kinh nguyệt không đều .",2-6g/ngày.,"Vị cay, đắng, tính ôn.","Can, Tỳ, Tâm."
+158,Mật động vật - Đởm,(Không có),(Nguồn gốc động vật),(Nguồn gốc động vật),"Giúp tiêu hóa, chữa đau mắt, viêm họng .",(Tùy loại).,"Vị đắng, tính hàn.","Can, Đởm, Vị."
+159,Mật lợn,trư đởm,Sus scrofa domesticus L.,(Nguồn gốc động vật),"Chữa ho gà, hen suyễn, đau mắt, táo bón .",1-2g/ngày (mật khô).,"Vị đắng, mùi tanh, tính lạnh.","Can, Đởm, Phế, Vị."
+160,Mật bò,ngưu đởm,Bos taurus L.,(Nguồn gốc động vật),"Chữa táo bón, ho có đờm, co giật .",(Tùy loại).,(Tương tự mật lợn).,(Tương tự mật lợn).
+161,Bòn bọt,"co bét bo, phèn đen",Glochidion eriocarpum Champ,Euphorbiaceae (Thầu dầu),"Chữa lỵ, tiêu chảy, viêm ruột, rắn cắn .",10-15g/ngày (dạng thuốc sắc).,"Vị chát, tính mát.",(Không ghi rõ)
+163,Dưa chuột,"hoàng qua, hồ qua",Cucumis sativus L.,Cucurbitaceae (Bí),"Lợi tiểu, chữa phù thũng, sốt .",(Không ghi rõ liều thuốc).,"Vị ngọt, tính hàn (quả).",(Không ghi rõ)
+164,Chua me đất hoa vàng,(Không có),Oxalis corniculata L.,Oxalidaceae (Chua me đất),"Chữa sốt, lỵ, thông tiểu, viêm họng, mụn nhọt.",30-50g/ngày (tươi).,"Vị chua, tính hàn.",(Không ghi rõ)
+165,Cây chua me lá me,(Không có),Biophytum sensitivum (L.) DC.,Oxalidaceae (Chua me đất),"Lợi tiểu, chữa lỵ, rắn cắn.",10-20g/ngày.,(Không ghi rõ),(Không ghi rõ)
+166,Cỏ bợ,"rau bợ, tứ diệp thảo",Marsilea quadrifolia L.,Marsileaceae (Cỏ bợ),"Chữa sưng mắt, lỵ, lợi tiểu.",15-30g/ngày (dạng thuốc sắc).,"Vị ngọt, đắng, tính hàn.","Tâm, Can, Phế, Thận."
+167,Cỏ may,(Không có),Chrysopogon aciculatus (Retz.) Trin.,Poaceae (Lúa),"Lợi tiểu, chữa sốt, vàng da .",10-20g/ngày.,(Không ghi rõ),(Không ghi rõ)
+168,Đậu đen,"ô đậu, hắc đại đậu",Vigna cylindrica (L.) Skeels,Papilionaceae (Cánh bướm),"Lợi tiểu, chữa thủy thũng, lở loét, mụn nhọt .",20-40g/ngày.,"Vị ngọt, tính bình.",Thận.
+169,Hoa hiên,"kim châm, hoàng hoa",Hemerocallis fulva L.,Liliaceae (Hành),"Lợi tiểu, chữa thủy thũng, vàng da, chảy máu cam.",6-12g/ngày.,"Vị ngọt, tính mát.",(Không ghi rõ)
+170,Lõi tiền,vẩy rồng,Tadehagi triquetrum (L.) Ohashi,Papilionaceae (Cánh bướm),"Lợi tiểu, chữa sỏi thận, sỏi bàng quang, viêm gan .",15-30g/ngày.,(Không ghi rõ),(Không ghi rõ)
+171,Mộc tặc,(Không có),Equisetum hyemale L.,Equisetaceae (Mộc tặc),"Lợi tiểu, chữa viêm gan, đau mắt đỏ.",6-12g/ngày.,"Vị ngọt, hơi đắng, tính bình.","Can, Phế, Đởm."
+172,Mộc thông,(Không có),Clematis armandii Franch,Ranunculaceae (Mao Lương),"Lợi tiểu, chữa thủy thũng, thông sữa.",3-6g/ngày.,"Vị đắng, tính hàn.","Tâm, Phế, Tiểu tràng, Bàng quang."
+173,Sòi,"cây sồi, ô cửu",Sapium sebiferum (L.) Roxb.,Euphorbiaceae (Thầu dầu),"Lợi tiểu, chữa thủy thũng. Chữa rắn cắn, mụn nhọt .",6-12g/ngày (dạng thuốc sắc).,"Vị đắng, tính hàn, có độc.","Đại tràng, Thận, Phế."
+174,Tai chuột,bèo tai chuột,Salvinia cucullata Roxb. ex Bory,Salviniaceae (Bèo tai chuột),"Lợi tiểu. Chữa mụn nhọt, lở loét .",15-30g/ngày.,"Vị ngọt, nhạt, tính hàn.",(Không ghi rõ)
+175,Thạch vĩ,"kim tinh thảo, phi đao kiếm",Pyrrosia lingua (Thunb.) Farw.,Polypodiaceae (Dương xỉ),"Lợi tiểu, chữa đái buốt, đái ra máu, sỏi bàng quang, viêm thận .",6-12g/ngày.,"Vị đắng, ngọt, tính hơi hàn.","Phế, Bàng quang."
+176,Lưỡi rắn,"bồi ngòi bò, xà thiệt thảo",Oldenlandia corymbosa L.,Rubiaceae (Cà phê),"Chữa sốt, ho, viêm họng, lợi tiểu.",15-30g/ngày (dạng thuốc sắc).,"Vị ngọt, nhạt, tính mát.",(Không ghi rõ)
+177,Dây chặc chìu,(Không có),Tetracera scandens (L.) Merr.,Dilleniaceae (Sổ),Lợi tiểu.,10-15g/ngày.,(Không ghi rõ),(Không ghi rõ)
+178,Thòng bong,"hải kim sa, bòng bong",Lygodium japonicum (Thunb.) Sw.,Schizaeaceae (Bòng bong),"Lợi tiểu, chữa đái buốt, đái ra sỏi.",6-12g/ngày (dạng thuốc sắc).,"Vị ngọt, tính hàn.","Bàng quang, Tiểu tràng."
+179,Mần tưới,"lan thảo, trạch lan",Eupatorium fortunei Turcz.,Asteraceae (Cúc),"Lợi tiểu, chữa thủy thũng, kinh nguyệt không đều.",6-12g/ngày.,"Vị đắng, cay, tính hơi ôn.","Can, Tỳ."
+180,Cà dái dê tím,cà tím,Solanum melongena L.,Solanaceae (Cà),Lợi tiểu.,(Không ghi rõ liều thuốc).,"Vị ngọt, tính hàn.",(Không ghi rõ)
+181,Cây cam xũng,(Không có),Sphaeranthus africanus L.,Asteraceae (Cúc),Lợi tiểu.,10-20g/ngày.,(Không ghi rõ),(Không ghi rõ)
+182,Chanh trường,(Không có),Triphasia trifolia (Burm.f.) P.Wils.,Rutaceae (Cam),Lợi tiểu.,(Không ghi rõ liều thuốc).,(Không ghi rõ),(Không ghi rõ)
+183,Coi,(Không có),Streblus asper Lour.,Moraceae (Dâu tằm),"Chữa lỵ, lợi tiểu.",10-20g/ngày (vỏ thân).,(Không ghi rõ),(Không ghi rõ)
+184,Côn bố,(Không có),Laminaria japonica Aresch.,Laminariaceae (Côn bố),"Lợi tiểu, chữa thủy thũng, bướu cổ.",6-12g/ngày.,"Vị mặn, tính hàn.","Can, Vị, Thận."
+185,Cây cơm cháy,(Không có),Sambucus javanica Reinw. ex Blume,Caprifoliaceae (Cơm cháy),"Lợi tiểu, chữa thủy thũng.",10-15g/ngày (dạng thuốc sắc).,"Vị chua, tính ấm.",(Không ghi rõ)
+186,Rau dừa nước,(Không có),Jussiaea repens L.,Onagraceae (Rau dừa nước),"Lợi tiểu, chữa đái buốt.",100-200g tươi/ngày.,"Vị ngọt, nhạt, tính hàn.",(Không ghi rõ)
+187,Dứa,(Không có),Ananas comosus (L.) Merr.,Bromeliaceae (Dứa),"Lợi tiểu, chữa sỏi thận, giúp tiêu hóa.",Rễ: 10-15g/ngày.,"Vị chua, ngọt, tính bình.",(Không ghi rõ)
+188,Dứa dại,(Không có),Pandanus tectorius Sol. ex Parkinson,Pandanaceae (Dứa dại),"Lợi tiểu, chữa viêm thận, phù thũng, xơ gan cổ trướng.",10-15g rễ hoặc 20-30g đọt non/ngày.,"Vị ngọt, tính mát.",(Không ghi rõ)
+189,Cây đa,(Không có),Ficus benghalensis L.,Moraceae (Dâu tằm),"Lợi tiểu, chữa lỵ, tiêu chảy.",10-20g búp hoặc rễ/ngày.,"Vị nhạt, tính mát.",(Không ghi rõ)
+190,Đậu chiều,"muồng hòe, vọng giang nam",Cassia occidentalis L.,Caesalpiniaceae (Vang),"Lợi tiểu, nhuận tràng. Chữa ăn uống không tiêu, đau dạ dày.","5-10g hạt/ngày (sao vàng, sắc).",(Không ghi rõ),(Không ghi rõ)
+191,Đậu đỏ nhỏ,xích tiểu đậu,Phaseolus angularis (Willd.) W.F.Wight,Papilionaceae (Cánh bướm),"Lợi tiểu, chữa thủy thũng, mụn nhọt, lở loét.",20-40g/ngày.,"Vị ngọt, chua, tính bình.","Tâm, Tiểu tràng."
+192,Găng,(Không có),Randia tomentosa (Blume ex DC.) Hook.f.,Rubiaceae (Cà phê),"Lợi tiểu, hạ sốt, chữa lỵ.",10-15g quả/ngày.,(Không ghi rõ),(Không ghi rõ)
+193,Cây xương sáo,"sương sáo, thạch đen",Mesona chinensis Benth.,Lamiaceae (Hoa môi),"Thanh nhiệt, giải độc, lợi tiểu.",(Làm thạch ăn).,"Vị ngọt, tính mát.",(Không ghi rõ)
+194,Thốt nốt,(Không có),Borassus flabellifer L.,Palmae (Cau),Lợi tiểu.,Uống nước từ cụm hoa tươi.,(Không ghi rõ),(Không ghi rõ)
+195,Mía,cam giá,Saccharum officinarum L.,Poaceae (Lúa),"Thanh nhiệt, lợi tiểu.","(Ăn, ép nước uống).","Vị ngọt, tính hàn.","Phế, Vị."
+196,Kim tiền thảo,"cây vẩy rồng, mắt trâu",Desmodium styracifolium (Osb.) Merr.,Papilionaceae (Cánh bướm),"Lợi tiểu, chữa sỏi thận, sỏi bàng quang, sỏi mật.",15-30g/ngày (dạng thuốc sắc).,"Vị ngọt, tính mát.","Can, Thận, Bàng quang."
+197,Rau om,"ngổ, ngổ om",Limnophila aromatica (Lamk.) Merr.,Scrophulariaceae (Hoa mõm chó),"Lợi tiểu, chữa sỏi thận.",20-30g tươi/ngày (giã vắt nước uống).,"Vị cay, tính mát.",(Không ghi rõ)
+198,Móng lưng rồng,(Không có),Helminthostachys zeylanica (L.) Hook.,Ophioglossaceae (Quyết lá thông),Lợi tiểu.,10-20g/ngày.,"Vị ngọt, hơi đắng, tính mát.",(Không ghi rõ)
+199,Nàng nàng,(Không có),Callicarpa cana L.,Verbenaceae (Cỏ roi ngựa),Lợi tiểu.,10-20g/ngày.,(Không ghi rõ),(Không ghi rõ)
+200,Rau đắng,(Không có),Glinus oppositifolius (L.) Aug.DC.,Molluginaceae (Rau đắng),"Lợi tiểu, chữa sốt, viêm gan, vàng da.",10-20g/ngày.,"Vị đắng, tính mát.",(Không ghi rõ)
+201,Cây lá tiết dê,(Không có),Stephania hernandifolia Walp.,Menispermaceae (Tiết dê),Lợi tiểu.,10-20g/ngày.,(Không ghi rõ),(Không ghi rõ)
+202,Khế rừng,(Không có),Rourea minor (Gaertn.) Leenh.,Connaraceae (Khế rừng),Lợi tiểu.,10-20g/ngày.,(Không ghi rõ),(Không ghi rõ)
+203,Mã thầy,củ năn,Eleocharis dulcis (Burm.f.) Trin. ex Hensch.,Cyperaceae (Cói),"Lợi tiểu, thanh nhiệt, chữa vàng da, sốt.",10-20g/ngày.,"Vị ngọt, tính hàn.",(Không ghi rõ)
+204,Mùi tây,(Không có),Petroselinum sativum Hoffm.,Apiaceae (Hoa tán),"Lợi tiểu, điều kinh.",2-4g/ngày.,(Không ghi rõ),(Không ghi rõ)
+205,Thương lục,(Không có),Phytolacca acinosa Roxb.,Phytolaccaceae (Thương lục),"Lợi tiểu, chữa thủy thũng.",4-8g/ngày.,"Vị đắng, tính hàn, có độc.",(Không ghi rõ)
+206,Cỏ thiên thảo,(Không có),Equisetum arvense L.,Equisetaceae (Mộc tặc),"Lợi tiểu, chữa phù thũng, sỏi thận, viêm bàng quang.",10-15g/ngày.,(Không ghi rõ),(Không ghi rõ)
+207,Dứa bà,(Không có),Agave americana L.,Amaryllidaceae (Thủy tiên),Lợi tiểu.,10-20g/ngày (lá tươi).,(Không ghi rõ),(Không ghi rõ)
+208,Lục lạc ba lá tròn,(Không có),Crotalaria mucronata Desv.,Papilionaceae (Cánh bướm),Lợi tiểu.,10-20g/ngày.,(Không ghi rõ),(Không ghi rõ)
+209,Rau muống,(Không có),Ipomoea aquatica Forssk.,Convolvulaceae (Bìm bìm),Lợi tiểu.,(Ăn).,(Không ghi rõ),(Không ghi rõ)
+210,Cỏ nhọ nồi,"hạn liên thảo, cỏ mực",Eclipta prostrata (L.) L.,Asteraceae (Cúc),"Cầm máu (rong kinh, trĩ ra máu, bị thương chảy máu). Bổ thận, đen tóc.",6-12g khô/ngày (dạng thuốc sắc).,"Vị ngọt, chua, tính lương.","Can, Thận."
+211,Cây nghể,"thủy liễu, nghể răm",Polygonum hydropiper L.,Polygonaceae (Rau răm),"Cầm máu (rong kinh, băng huyết), chữa rắn cắn.",15-20g/ngày.,"Vị cay, tính ấm.",(Không ghi rõ)
+212,Cỏ nến (Phấn hoa),bồ hoàng,Typha angustifolia L.,Typhaceae (Hương bồ),"Cầm máu (thổ huyết, máu cam, rong kinh, tiểu ra máu).",6-12g/ngày.,"Vị ngọt, tính bình.","Can, Tỳ, Tâm bào."
+213,Long nha thảo,tiên hạc thảo,Agrimonia pilosa Ledeb.,Rosaceae (Hoa hồng),"Cầm máu, chữa lỵ.",6-12g/ngày.,"Vị đắng, chát, tính ôn.","Phế, Can, Tỳ."
+214,Cây huyết dụ,(Không có),Cordyline fruticosa (L.) A.Chev.,Agavaceae (Thùa),"Cầm máu (rong kinh, băng huyết, thổ huyết, trĩ ra máu).",20-30g lá tươi hoặc 8-16g lá khô/ngày.,"Vị nhạt, tính mát.",(Không ghi rõ)
+215,Cây trắc bách diệp,(Không có),Thuja orientalis L.,Cupressaceae (Hoàng đàn),"Cầm máu (thổ huyết, máu cam, ho ra máu, rong kinh).",6-12g/ngày.,"Vị đắng, chát, tính hơi hàn.","Can, Phế, Đại tràng."
+216,Cây tam thất,(Không có),Panax notoginseng (Burkill) F.H.Chen,Araliaceae (Nhân sâm),"Cầm máu, bổ dưỡng. Chữa thổ huyết, máu cam, băng huyết, rong kinh, chấn thương tụ máu.",4-8g/ngày (dạng bột).,"Vị ngọt, hơi đắng, tính ôn.","Can, Vị."
+217,Cây mào gà trắng,thanh tương tử,Celosia argentea L.,Amaranthaceae (Giền),"Chữa lỵ ra máu, xích bạch đới, rong kinh .",6-12g hạt/ngày (dạng thuốc sắc).,"Vị đắng, tính hàn.","Đại tràng, Can."
+218,Cây mào gà đỏ,(Không có),Celosia cristata L.,Amaranthaceae (Giền),"Cầm máu (trĩ ra máu, lỵ ra máu, thổ huyết, rong kinh) .",8-15g hoa/ngày (dạng thuốc sắc).,"Vị ngọt, tính mát.","Can, Đại tràng."
+219,Bách thảo sương,nhọ nồi,(Không có),(Sản phẩm cháy),"Cầm máu (thổ huyết, máu cam, lỵ ra máu, rong kinh).",6-10g/ngày.,"Vị cay, tính ôn.","Can, Phế, Vị."
+220,Rau ngổ,(Không có),Enydra fluctuans Lour.,Asteraceae (Cúc),Cầm máu (băng huyết).,12-20g/ngày.,"Vị cay, tính mát.",(Không ghi rõ)
+221,Thiến thảo,(Không có),Rubia cordifolia L.,Rubiaceae (Cà phê),"Cầm máu (thổ huyết, máu cam, tử cung xuất huyết), chữa bế kinh .",6-12g/ngày.,"Vị đắng, tính hàn.",Can.
+222,Vạn tuế,(Không có),Cycas revoluta Thunb.,Cycadaceae (Thiên tuế),Cầm máu (dùng hạt).,1-2 hạt nướng chín/ngày.,"Vị ngọt, tính bình.",(Không ghi rõ)
+223,Địa du,(Không có),Sanguisorba officinalis L.,Rosaceae (Hoa hồng),"Cầm máu (lỵ ra máu, trĩ ra máu, rong kinh).",6-12g/ngày.,"Vị đắng, chua, tính hơi hàn.","Can, Vị, Đại tràng."
+224,Cây hoa hòe,(Không có),Sophora japonica L.,Papilionaceae (Cánh bướm),"Cầm máu, chữa cao huyết áp.",Nụ hoa: 5-20g/ngày. Quả: 6-12g/ngày.,"Vị đắng, tính bình.","Can, Đại tràng."
+225,Mạch ba góc,kiều mạch,Fagopyrum esculentum Moench,Polygonaceae (Rau răm),Chữa cao huyết áp (do có rutin).,20-30g/ngày.,(Không ghi rõ),(Không ghi rõ)
+226,Cây ba gạc,(Không có),Rauvolfia verticillata (Lour.) Baill.,Apocynaceae (Trúc đào),"Hạ huyết áp, an thần.",(Tùy theo hàm lượng ancaloit).,(Không ghi rõ),(Không ghi rõ)
+227,Cây ba gạc Ấn Độ,(Không có),Rauvolfia serpentina Benth. ex Kurz,Apocynaceae (Trúc đào),"Hạ huyết áp, an thần.",(Tùy theo hàm lượng ancaloit).,(Không ghi rõ),(Không ghi rõ)
+228,Cây ba kích,(Không có),Morinda officinalis How,Rubiaceae (Cà phê),"Bổ thận, tráng dương. Chữa cao huyết áp.",8-16g/ngày.,"Vị cay, ngọt, tính hơi ôn.",Thận.
+229,Cây câu đằng,(Không có),Uncaria rhynchophylla (Miq.) Miq. ex Havil.,Rubiaceae (Cà phê),"Chữa cao huyết áp, nhức đầu, an thần.",6-12g/ngày.,"Vị ngọt, tính hàn.","Tâm, Can."
+230,Cây nhàu,(Không có),Morinda citrifolia L.,Rubiaceae (Cà phê),Chữa cao huyết áp.,8-10g rễ/ngày.,(Không ghi rõ),(Không ghi rõ)
+231,Cây dừa cạn,(Không có),Catharanthus roseus (L.) G.Don,Apocynaceae (Trúc đào),"Chữa cao huyết áp, lợi tiểu, chữa đái đường, ung thư máu.",8-20g/ngày.,"Vị hơi đắng, tính mát.",(Không ghi rõ)
+232,Đỗ trọng,(Không có),Eucommia ulmoides Oliv.,Eucommiaceae (Đỗ trọng),"Hạ huyết áp, bổ can thận, mạnh gân cốt.",8-12g/ngày.,"Vị ngọt, hơi cay, tính ôn.","Can, Thận."
+233,Hoàng cầm,(Không có),Scutellaria baicalensis Georgi,Lamiaceae (Hoa môi),"Hạ huyết áp, an thần, lợi tiểu, kháng sinh.",6-15g/ngày.,"Vị đắng, tính hàn.","Tâm, Phế, Can, Đởm, Đại tràng."
+234,Hồi đầu thảo,(Không có),Crepis phoenix Dunn,Asteraceae (Cúc),"Hạ huyết áp, chữa lỵ.",10-15g/ngày.,(Không ghi rõ),(Không ghi rõ)
+235,Rau cần tây,(Không có),Apium graveolens L.,Apiaceae (Hoa tán),Hạ huyết áp.,"Dùng cả cây, không kể liều.",(Không ghi rõ),(Không ghi rõ)
+236,Cây chẹo,(Không có),Sapium discolor (Champ. ex Benth.) Muell. Arg.,Euphorbiaceae (Thầu dầu),Thuốc độc dùng duốc cá.,(Không dùng cho người).,Có độc.,(Không ghi rõ)
+237,Cây củ đậu (Hạt),sắn nước,Pachyrhizus erosus (L.) Urb.,Papilionaceae (Cánh bướm),"Thuốc trừ sâu, duốc cá.",(Không dùng cho người).,Hạt có độc.,(Không ghi rõ)
+238,Cây hột mát,(Không có),Hodgsonia heteroclita (Roxb.) Hook.f.,Cucurbitaceae (Bí),Thuốc độc.,(Không dùng).,Có độc.,(Không ghi rõ)
+239,Cây lá ngón,đoạn trường thảo,Gelsemium elegans (Gardner et Champ.) Benth.,Loganiaceae (Mã tiền),Thuốc độc gây chết người.,(Không dùng).,Rất độc.,(Không ghi rõ)
+240,Cây sui,(Không có),Antiaris toxicaria Lesch.,Moraceae (Dâu tằm),"Thuốc độc tẩm tên, tác dụng trên tim.",(Không dùng).,Rất độc.,(Không ghi rõ)
+241,Thân mát,ba đậu,Croton tiglium L.,Euphorbiaceae (Thầu dầu),Thuốc tẩy mạnh.,0.01-0.05g.,"Vị cay, tính nóng, rất độc.",(Không ghi rõ)
+242,Hồi núi,đại hồi núi,Illicium griffithii Hook.f. et Thomson,Illiciaceae (Hồi),Thuốc độc gây co giật.,(Không dùng).,Có độc.,(Không ghi rõ)
+243,Hương bài,(Không có),Dianella ensifolia (L.) DC.,Liliaceae (Hành),"Rễ dùng làm thuốc trừ sâu, hương liệu .",(Không dùng cho người).,Có độc.,(Không ghi rõ)
+244,Hương lâu,(Không có),Gynocardia odorata R. Br.,Flacourtiaceae (Bồ quân),Hạt ép dầu chữa bệnh hủi .,(Không dùng).,Hạt có độc.,(Không ghi rõ)
+245,Cổ giải,địa liền,Kaempferia galanga L.,Zingiberaceae (Gừng),Trừ sâu bọ .,(Không dùng với mục đích này).,"Vị cay, tính ôn.",(Không ghi rõ)
+246,Cúc trừ sâu,(Không có),Chrysanthemum cinerariifolium (Trevir.) Vis.,Asteraceae (Cúc),"Thuốc trừ sâu, diệt côn trùng .",(Không dùng cho người).,Có độc (với côn trùng).,(Không ghi rõ)
+247,Tỏi độc,"náng, văn châu lan, chuối nước",Crinum asiaticum L.,Amaryllidaceae (Thủy tiên),"Đắp chữa mụn nhọt, bong gân.",Dùng ngoài.,Có độc.,(Không ghi rõ)
+248,Cây ngọt nghẹo,"ngót nghẻo, ngoắt nghẻo",Gloriosa superba L.,Liliaceae (Hành),"Đắp chữa rắn cắn, mụn nhọt .",Dùng ngoài.,Có độc.,(Không ghi rõ)
+249,Cây cho curaro,(Nhiều loại),"Strychnos sp., Chondrodendron sp.","Loganiaceae, Menispermaceae",Thuốc độc tẩm tên. Gây giãn cơ trong phẫu thuật .,(Dùng trong y học hiện đại).,Rất độc.,(Không ghi rõ)
+250,Sở,(Không có),Camellia japonica L.,Theaceae (Chè),"(Khô dầu hạt) Bón ruộng, duốc cá, trừ sâu .",(Không dùng cho người).,Có độc.,(Không ghi rõ)
+251,Trẩu,(Không có),Vernicia montana Lour.,Euphorbiaceae (Thầu dầu),"(Dầu hạt) Dùng trong kỹ nghệ sơn, vecni.",(Không dùng cho người).,Hạt có độc.,(Không ghi rõ)
+252,Cây lim,(Không có),Erythrophleum fordii Oliv.,Caesalpiniaceae (Vang),Vỏ cây là thuốc độc.,(Không dùng).,Rất độc.,(Không ghi rõ)
+253,Mắc kẹn,"hoàng mộc hôi, sẻn, sắng",Zanthoxylum rhetsa (Roxb.) DC.,Rutaceae (Cam),Duốc cá.,(Không dùng).,Có độc.,(Không ghi rõ)
+254,Thuốc lá,(Không có),Nicotiana tabacum L.,Solanaceae (Cà),"Trừ sâu bọ, chữa rắn cắn .",Dùng ngoài.,Có độc.,(Không ghi rõ)
+255,Gai dâu,cà gai,Solanum aculeatissimum Jacq.,Solanaceae (Cà),"Chữa sâu răng, đau răng .",Dùng ngoài: đốt hạt xông.,Quả có độc.,(Không ghi rõ)
+256,Cây sơn,(Không có),Rhus succedanea L.,Anacardiaceae (Đào lộn hột),"(Nhựa) Dùng trong kỹ nghệ sơn. Gây dị ứng, lở loét da .",(Không dùng làm thuốc).,Nhựa rất độc.,(Không ghi rõ)
+257,Dây thuốc cá,(Không có),Derris elliptica (Roxb.) Benth.,Papilionaceae (Cánh bướm),"Duốc cá, trừ sâu .",(Không dùng cho người).,Có độc.,(Không ghi rõ)
+258,Sơn tra,chua chát,Docynia indica (Wall.) Decne.,Rosaceae (Hoa hồng),"Giúp tiêu hóa thịt, chữa ăn uống không tiêu, đau bụng, đi lỏng.",6-12g/ngày (dạng thuốc sắc hoặc bột).,"Vị chua, ngọt, tính hơi ôn.","Tỳ, Vị, Can."
+259,Mạch nha,(Không có),Hordeum sativum Jess.,Poaceae (Lúa),"Giúp tiêu hóa chất bột. Chữa ăn uống không tiêu, trướng bụng.",12-30g/ngày.,"Vị ngọt, tính ôn.","Tỳ, Vị."
+260,Thần khúc,(Không có),(Hỗn hợp lên men),(Hỗn hợp lên men),"Giúp tiêu hóa. Chữa ăn uống không tiêu, đi lỏng, lỵ.",6-12g/ngày.,"Vị ngọt, cay, tính ôn.","Tỳ, Vị."
+261,Đu đủ,(Không có),Carica papaya L.,Caricaceae (Đu đủ),"(Nhựa) Giúp tiêu hóa protit, trị giun. (Quả) Bổ, nhuận tràng.",2-4g nhựa.,(Không ghi rõ),(Không ghi rõ)
+262,Kê nội kim,màng mề gà,(Gallus gallus domesticus),(Nguồn gốc động vật),"Giúp tiêu hóa, chữa trẻ em cam tích, biếng ăn, đái dầm.",3-6g/ngày.,"Vị ngọt, tính bình.","Tỳ, Vị, Tiểu tràng, Bàng quang."
+263,Chỉ thực,(Không có),Citrus aurantium L.,Rutaceae (Cam),"Giúp tiêu hóa, chữa đầy bụng, ăn không tiêu.",4-8g/ngày.,"Vị đắng, tính hàn.","Tỳ, Vị."
+264,Địa liền,"sơn nại, tam nại",Kaempferia galanga L.,Zingiberaceae (Gừng),"Giúp tiêu hóa, chữa đau bụng, nhức đầu, cảm sốt.",4-8g/ngày.,"Vị cay, tính ôn.","Tỳ, Vị."
+265,Gừng,"sinh khương, can khương",Zingiber officinale Roscoe,Zingiberaceae (Gừng),"Giúp tiêu hóa, chữa nôn mửa, đau bụng, cảm lạnh, ho.",2-6g/ngày.,"Vị cay, tính ôn.","Phế, Tỳ, Vị."
+266,Gừng gió,(Không có),Zingiber zerumbet (L.) Sm.,Zingiberaceae (Gừng),"Giúp tiêu hóa, chữa đau bụng, trúng gió.",4-8g/ngày.,"Vị đắng, cay, tính ấm.",(Không ghi rõ)
+267,Hạt sen,liên nhục,Nelumbo nucifera Gaertn.,Nymphaeaceae (Sen),"Bổ tỳ, an thần. Chữa di tinh, mộng tinh, tiêu chảy, ăn không tiêu.",10-30g/ngày.,"Vị ngọt, sáp, tính bình.","Tỳ, Thận, Tâm."
+268,Hạt tiêu,hồ tiêu,Piper nigrum L.,Piperaceae (Hồ tiêu),"Giúp tiêu hóa, chữa đau bụng lạnh, nôn mửa, tiêu chảy.",1-3g/ngày.,"Vị cay, tính nóng.","Vị, Đại tràng."
+269,Hậu phác,(Không có),Magnolia officinalis Rehd. et Wils.,Magnoliaceae (Mộc lan),"Giúp tiêu hóa, chữa đầy bụng, ăn không tiêu, nôn mửa, đi lỏng.",4-12g/ngày.,"Vị đắng, cay, tính ôn.","Tỳ, Vị, Đại tràng."
+270,Hoắc hương,(Không có),Pogostemon cablin (Blanco) Benth.,Lamiaceae (Hoa môi),"Giúp tiêu hóa, chữa ăn không tiêu, nôn mửa, cảm cúm.",6-12g/ngày.,"Vị cay, tính hơi ôn.","Tỳ, Vị, Phế."
+271,Long đờm thảo,(Không có),Gentiana scabra Bunge,Gentianaceae (Long đởm),"Giúp tiêu hóa, chữa ăn không tiêu, sốt, đau mắt đỏ.",4-12g/ngày.,"Vị đắng, tính hàn.","Can, Đởm, Bàng quang."
+272,Nga truật,"nghệ đen, nghệ tím",Curcuma zedoaria (Berg.) Roscoe,Zingiberaceae (Gừng),"Giúp tiêu hóa, chữa đau bụng, ăn không tiêu, bế kinh.",3-6g/ngày.,"Vị đắng, cay, tính ôn.",Can.
+273,Ngô thù du,(Không có),Evodia rutaecarpa (Juss.) Benth.,Rutaceae (Cam),"Giúp tiêu hóa, chữa đau bụng, nôn mửa, ỉa lỏng.",2-5g/ngày.,"Vị cay, đắng, tính nóng, có độc.","Can, Vị, Tỳ, Thận."
+274,Ngũ gia bì,(Không có),Acanthopanax aculeatus Seem.,Araliaceae (Nhân sâm),"Bổ, mạnh gân cốt. Chữa đau lưng, tê thấp.",6-12g/ngày.,"Vị cay, tính ôn.","Can, Thận."
+275,Ớt,(Không có),Capsicum frutescens L.,Solanaceae (Cà),"Giúp tiêu hóa, chữa đau bụng, ăn không tiêu. Dùng ngoài chữa đau nhức.",0.5-1g/ngày.,"Vị cay, tính nóng.","Tâm, Tỳ."
+276,Quít - Trần bì,(Không có),Citrus reticulata Blanco,Rutaceae (Cam),"Giúp tiêu hóa, chữa ho, nôn mửa, đầy bụng.",4-12g/ngày.,"Vị cay, đắng, tính ôn.","Tỳ, Phế."
+277,Riềng,cao lương khương,Alpinia officinarum Hance,Zingiberaceae (Gừng),"Giúp tiêu hóa, chữa đau bụng, nôn mửa, ăn không tiêu.",3-6g/ngày.,"Vị cay, tính nóng.","Tỳ, Vị."
+278,Xương bồ,thạch xương bồ,Acorus gramineus Soland. ex Aiton,Araceae (Ráy),"Giúp tiêu hóa, chữa đau bụng, đi lỏng, an thần.",4-8g/ngày.,"Vị cay, tính ôn.","Tâm, Can, Tỳ."
+279,Bạch biển đậu,đậu ván trắng,Dolichos lablab L.,Papilionaceae (Cánh bướm),"Bổ tỳ, chữa tiêu chảy, ăn uống không tiêu.",8-16g/ngày.,"Vị ngọt, tính hơi ôn.","Tỳ, Vị."
+280,Bạch truật,(Không có),Atractylodes macrocephala Koidz.,Asteraceae (Cúc),"Bổ tỳ, kiện vị. Chữa ăn uống không tiêu, đầy trướng, nôn mửa, ỉa lỏng.",6-12g/ngày.,"Vị ngọt, đắng, tính ôn.","Tỳ, Vị."
+281,Thương truật,(Không có),Atractylodes lancea (Thunb.) DC.,Asteraceae (Cúc),"Kiện tỳ, táo thấp. Chữa ăn không tiêu, ỉa lỏng, thủy thũng.",6-12g/ngày.,"Vị cay, đắng, tính ôn.","Tỳ, Vị."
+282,Đơn lá đỏ,đơn mặt trời,Excoecaria cochinchinensis Lour.,Euphorbiaceae (Thầu dầu),"Chữa lỵ, tiêu chảy lâu ngày, mẩn ngứa.",6-12g/ngày.,"Vị đắng, ngọt, tính mát.",(Không ghi rõ)
+283,Đùm đùm,(Không có),Mallotus repandus (Willd.) Muell.Arg.,Euphorbiaceae (Thầu dầu),Giúp tiêu hóa.,10-20g/ngày.,(Không ghi rõ),(Không ghi rõ)
+284,Mâm xôi,(Không có),Rubus alceaefolius Poir.,Rosaceae (Hoa hồng),"Chữa lỵ, tiêu chảy.",15-30g/ngày.,(Không ghi rõ),(Không ghi rõ)
+285,Mộc hương,(Không có),Saussurea lappa C.B.Clarke,Asteraceae (Cúc),"Giúp tiêu hóa, chữa đau bụng, đầy trướng, nôn mửa, lỵ.",3-6g/ngày.,"Vị cay, đắng, tính ôn.","Can, Tỳ, Vị, Đại tràng, Tam tiêu, Đởm."
+286,Rau đay,(Không có),Corchorus olitorius L.,Tiliaceae (Đay),"Chữa lỵ, táo bón.",(Ăn).,(Không ghi rõ),(Không ghi rõ)
+287,Dương xuân sa,(Không có),Amomum villosum Lour.,Zingiberaceae (Gừng),"Giúp tiêu hóa, chữa đau bụng, đầy hơi, nôn mửa, an thai.",2-5g/ngày.,"Vị cay, tính ôn.","Tỳ, Vị, Thận."
+288,Sa nhân,(Không có),Amomum longiligulare T.L.Wu,Zingiberaceae (Gừng),"Giúp tiêu hóa, chữa đau bụng, đầy hơi, nôn mửa, an thai.",2-5g/ngày.,"Vị cay, tính ôn.","Tỳ, Vị, Thận."
+289,Đậu khấu,bạch đậu khấu,Amomum cardamomum L.,Zingiberaceae (Gừng),"Giúp tiêu hóa, chữa đau bụng, đầy hơi, nôn mửa.",4-8g/ngày.,"Vị cay, tính ôn.","Phế, Tỳ, Vị."
+290,Thảo đậu khấu,(Không có),Alpinia katsumadai Hayata,Zingiberaceae (Gừng),"Giúp tiêu hóa, chữa đau bụng lạnh, nôn mửa.",4-8g/ngày.,"Vị cay, tính ôn.","Tỳ, Vị."
+291,Hồng đậu khấu,riềng,Alpinia galanga (L.) Willd.,Zingiberaceae (Gừng),"Giúp tiêu hóa, chữa đau bụng, nôn mửa.",3-6g/ngày.,"Vị cay, tính nóng.","Tỳ, Vị."
+292,Ích trí nhân,(Không có),Alpinia oxyphylla Miq.,Zingiberaceae (Gừng),"Bổ tỳ, chữa đau bụng, đi lỏng, đái dầm, di tinh.",4-8g/ngày.,"Vị cay, tính ôn.","Tỳ, Thận."
+293,Nhục đậu khấu,(Không có),Myristica fragrans Houtt.,Myristicaceae (Nhục đậu khấu),"Giúp tiêu hóa, chữa đau bụng, ăn không tiêu, nôn mửa, đi lỏng.",0.5-1g/ngày.,"Vị cay, tính ôn.","Tỳ, Vị, Đại tràng."
+294,Thành ngạnh,(Không có),Cratoxylon prunifolium (Kurz) Dyer,Clusiaceae (Bứa),"Giúp tiêu hóa, chữa rắn cắn.",10-15g/ngày.,(Không ghi rõ),(Không ghi rõ)
+295,Thảo quả,(Không có),Amomum tsaoko Crevost et Lem.,Zingiberaceae (Gừng),"Giúp tiêu hóa, chữa đau bụng, nôn mửa, sốt rét.",3-6g/ngày.,"Vị cay, tính ôn.","Tỳ, Vị."
+296,Thị (Tai quả),thị đế,Diospyros kaki L.f.,Ebenaceae (Thị),Chữa nấc.,6-12g/ngày.,"Vị đắng, chát, tính bình.",Vị.
+297,Bách bệnh,(Không có),Eurycoma longifolia Jack,Simaroubaceae (Thanh thất),"Chữa ăn không tiêu, nôn mửa, sốt rét, lỵ.",4-12g/ngày.,"Vị đắng, tính ôn.",(Không ghi rõ)
+298,Hublông,hoa bia,Humulus lupulus L.,Cannabaceae (Gai mèo),"Giúp tiêu hóa, an thần.",1-2g/ngày.,Vị đắng.,(Không ghi rõ)
+299,Cây dung,(Không có),Symplocos laurina (Retz.) Wall. ex G.Don,Symplocaceae (Dung),"Chữa đau bụng, tiêu chảy.",10-15g/ngày.,(Không ghi rõ),(Không ghi rõ)
+300,Hoa tiên,đan sâm,Salvia miltiorrhiza Bunge,Lamiaceae (Hoa môi),"Bổ huyết, hoạt huyết, chữa kinh nguyệt không đều, đau bụng.",6-12g/ngày.,"Vị đắng, tính hơi hàn.","Tâm, Can."
+301,Màng tang,(Không có),Litsea cubeba (Lour.) Pers.,Lauraceae (Long não),"Giúp tiêu hóa, chữa đau dạ dày, đau bụng.","6-12g rễ, cành, lá/ngày.",(Không ghi rõ),(Không ghi rõ)
+302,Rau mùi,(Không có),Coriandrum sativum L.,Apiaceae (Hoa tán),"Giúp tiêu hóa, chữa sởi.",(Dùng làm gia vị).,(Không ghi rõ),(Không ghi rõ)
+303,Nấm hương,(Không có),Lentinus edodes (Berk.) Singer,Agaricaceae (Nấm),"Bổ, giúp tiêu hóa, hạ cholesterol máu.",(Dùng làm thực phẩm).,(Không ghi rõ),(Không ghi rõ)
+304,Thiên đầu thống,uy linh tiên,Clematis chinensis Osbeck,Ranunculaceae (Mao Lương),"Chữa đau nhức, tê thấp.",6-12g/ngày.,"Vị cay, mặn, tính ôn.",Bàng quang.
+305,Tai chua,(Không có),Garcinia cowa Roxb. ex Choisy,Clusiaceae (Bứa),Giúp tiêu hóa.,(Dùng làm gia vị).,Vị chua.,(Không ghi rõ)
+306,Thìa là,(Không có),Anethum graveolens L.,Apiaceae (Hoa tán),"Giúp tiêu hóa, chữa đau bụng, nôn mửa.",4-8g hạt/ngày.,(Không ghi rõ),(Không ghi rõ)
+307,Vôi,(Không có),(Canxi oxit),(Khoáng vật),"Chữa lở loét, mụn nhọt.",Dùng ngoài.,"Vị cay, tính ôn, có độc.",(Không ghi rõ)
+308,Cây lá men,(Không có),Croton poilanei Gagnep.,Euphorbiaceae (Thầu dầu),Giúp tiêu hóa.,10-20g/ngày.,(Không ghi rõ),(Không ghi rõ)
+309,Sổ,(Không có),Dillenia indica L.,Dilleniaceae (Sổ),"Chữa đau bụng, tiêu chảy.",2-4g quả/ngày.,"Vị chua, chát.",(Không ghi rõ)
+310,Thanh ngâm,(Không có),Picria fel-terrae Lour.,Scrophulariaceae (Hoa mõm chó),"Giúp tiêu hóa, chữa sốt, ho.",6-12g/ngày.,"Vị đắng, tính hàn.",(Không ghi rõ)
+311,Kha tử,chiêu liêu,Terminalia chebula Retz.,Combretaceae (Bàng),"Liễm phế, cầm ho, chữa ho lâu ngày, viêm họng, khản tiếng, lỵ mãn tính, trĩ.",3-6g/ngày (sắc hoặc ngậm).,"Vị đắng, chua, chát, tính bình.","Phế, Vị, Đại tràng."
+312,Măng cụt (Vỏ quả),(Không có),Garcinia mangostana L.,Clusiaceae (Bứa),"Chữa lỵ, tiêu chảy, đau bụng.",6-12g/ngày (dạng thuốc sắc).,"Vị chua, chát, tính bình.",(Không ghi rõ)
+313,Ngũ bội tử,(Không có),(Tổ sâu Galla chinensis),(Tổ sâu),"Chữa lỵ mãn tính, tiêu chảy, ra mồ hôi trộm, ho lâu ngày.",2-6g/ngày.,"Vị chua, chát, tính bình.","Phế, Vị, Đại tràng, Thận."
+314,Cây ổi,(Không có),Psidium guajava L.,Myrtaceae (Sim),"Chữa lỵ, tiêu chảy.","15-20g búp non, lá non/ngày (sắc).",Vị chát.,(Không ghi rõ)
+315,Ô dược,(Không có),Lindera myrrha (Lour.) Merr.,Lauraceae (Long não),"Chữa đau bụng, ăn không tiêu, nôn mửa, kinh nguyệt không đều.",3-6g/ngày.,"Vị cay, đắng, tính ôn.","Phế, Tỳ, Thận, Bàng quang."
+316,Sim,(Không có),Rhodomyrtus tomentosa (Aiton) Hassk.,Myrtaceae (Sim),"Chữa lỵ, tiêu chảy.",Búp/lá: 20-30g. Rễ: 15-20g. Quả: 8-12g.,"Vị ngọt, chát, tính bình.",(Không ghi rõ)
+317,Trầm hương,(Không có),Aquilaria crassna Pierre ex Lecomte,Thymelaeaceae (Trầm),"Giáng khí, chữa nôn mửa, đau bụng, hen suyễn.",0.3-3g/ngày (dạng bột).,"Vị cay, tính ôn.","Thận, Tỳ, Vị."
+318,Kiến kỳ nam,(Không có),Aquilaria sinensis (Lour.) Gilg,Thymelaeaceae (Trầm),Tương tự Trầm hương.,Tương tự Trầm hương.,Tương tự Trầm hương.,Tương tự Trầm hương.
+319,Cà rốt,(Không có),Daucus carota L.,Apiaceae (Hoa tán),"Chữa lỵ, tiêu chảy.",(Ăn).,"Vị ngọt, tính bình.",(Không ghi rõ)
+320,Preah phneou,(Không có),Stemona sp.,Stemonaceae (Bách bộ),Chữa lỵ.,10-15g/ngày.,(Không ghi rõ),(Không ghi rõ)
+321,Củ nâu,(Không có),Dioscorea cirrhosa Lour.,Dioscoreaceae (Củ nâu),"Chữa lỵ, tiêu chảy.",10-15g/ngày.,"Vị ngọt, đắng, chát.",(Không ghi rõ)
+322,Vải (Hạt),lệ chi,Litchi chinensis Sonn.,Sapindaceae (Bồ hòn),Chữa tiêu chảy ở trẻ em.,4-8g/ngày (hạt nướng).,(Không ghi rõ),(Không ghi rõ)
+323,Khoai riềng,(Không có),Canna edulis Ker Gawl.,Cannaceae (Dong riềng),Chữa lỵ.,20-30g/ngày.,(Không ghi rõ),(Không ghi rõ)
+324,Khiên ngưu,bìm bìm biếc,Pharbitis nil (L.) Choisy,Convolvulaceae (Bìm bìm),"Nhuận tràng, thông tiểu, trị giun.",2-3g (nhuận tràng); 4-8g (tẩy).,"Vị đắng, tính hàn, có độc.","Phế, Thận, Đại tràng."
+325,Khoai lang,(Không có),Ipomoea batatas (L.) Lam.,Convolvulaceae (Bìm bìm),Nhuận tràng.,(Ăn).,"Vị ngọt, tính bình.",(Không ghi rõ)
+326,Cây đại (Vỏ),(Không có),Plumeria rubra L. var. acutifolia,Apocynaceae (Trúc đào),"Nhuận tràng, tẩy, hạ sốt.",3-6g (nhuận tràng); 8-15g (tẩy).,"Vị đắng, tính mát, có độc.",(Không ghi rõ)
+327,Mang tiêu,"phác tiêu, huyền minh phấn",(Natri sulfat),(Khoáng vật),"Tẩy mạnh, chữa táo bón, đau bụng.",10-15g/ngày.,"Vị mặn, đắng, tính hàn.","Vị, Đại tràng, Tam tiêu."
+328,Ba đậu,thân mát,Croton tiglium L.,Euphorbiaceae (Thầu dầu),"Tẩy mạnh, chữa táo bón, thủy thũng.",0.01-0.05g.,"Vị cay, tính nóng, rất độc.","Vị, Đại tràng."
+329,Thầu dầu (Dầu hạt),đu đủ tía,Ricinus communis L.,Euphorbiaceae (Thầu dầu),"Nhuận tràng, tẩy.",Dầu: 4-20g.,"Vị ngọt, cay, tính bình, có độc.",Đại tràng.
+330,Chút chít,dương đề,Rumex wallichii Meisn.,Polygonaceae (Rau răm),"Nhuận tràng. Chữa hắc lào, ghẻ lở.",1-4g/ngày.,"Vị đắng, tính hàn.",(Không ghi rõ)
+331,Đại hoàng,(Không có),Rheum officinale Baill.,Polygonaceae (Rau răm),"Nhuận tràng, tẩy. Chữa táo bón, vàng da.",0.5-2g (nhuận); 4-8g (tẩy).,"Vị đắng, tính hàn.","Tỳ, Vị, Can, Tâm bào, Đại tràng."
+332,Lô hội,nha đam,Aloe vera L. var. chinensis,Liliaceae (Hành),"Tẩy, nhuận tràng. Chữa kinh bế, cam tích ở trẻ em.",1-2g/ngày.,"Vị đắng, tính hàn.","Can, Vị, Đại tràng."
+333,Muồng trâu,(Không có),Cassia alata L.,Caesalpiniaceae (Vang),Nhuận tràng. Chữa hắc lào.,1-2 lá/ngày.,(Không ghi rõ),(Không ghi rõ)
+334,Phan tả diệp,(Không có),Cassia angustifolia Vahl,Caesalpiniaceae (Vang),"Nhuận tràng, tẩy.",1-2g (nhuận); 3-6g (tẩy).,"Vị ngọt, đắng, tính hàn.",Đại tràng.
+335,Thảo quyết minh,muồng ngủ,Cassia tora L.,Caesalpiniaceae (Vang),"Nhuận tràng. Chữa đau mắt, cao huyết áp, mất ngủ.",10-15g/ngày.,"Vị ngọt, đắng, tính hàn.","Can, Thận."
+336,Vọng giang nam,"muồng hòe, đậu chiều",Cassia occidentalis L.,Caesalpiniaceae (Vang),"Lợi tiểu, nhuận tràng. Chữa ăn không tiêu.",5-10g/ngày.,(Không ghi rõ),(Không ghi rõ)
+337,Rau mồng tơi,(Không có),Basella rubra L.,Basellaceae (Mồng tơi),Nhuận tràng.,(Ăn).,"Vị ngọt, chua, tính hàn.",(Không ghi rõ)
+338,Thạch,rau câu,Gelidium amansii Kütz.,Gelidiaceae (Rau câu),Nhuận tràng.,(Ăn).,"Vị ngọt, tính hàn.",(Không ghi rõ)
+339,Cây hoa phấn,(Không có),Mirabilis jalapa L.,Nyctaginaceae (Hoa phấn),"Nhuận tràng, tẩy (hạt).",2-3 hạt.,(Không ghi rõ),(Không ghi rõ)
+340,Ba đậu tây,(Không có),Hura crepitans L.,Euphorbiaceae (Thầu dầu),Tẩy.,1 hạt.,Có độc.,(Không ghi rõ)
+341,Đằng hoàng,(Không có),Garcinia hanburyi Hook.f.,Clusiaceae (Bứa),Tẩy mạnh.,0.05-0.2g.,Có độc.,(Không ghi rõ)
+342,Đậu cọc rào,(Không có),Jatropha curcas L.,Euphorbiaceae (Thầu dầu),Tẩy.,3-5 hạt.,Có độc.,(Không ghi rõ)
+343,Cây lai,(Không có),Aleurites moluccana (L.) Willd.,Euphorbiaceae (Thầu dầu),Tẩy.,1-2 hạt.,Có độc.,(Không ghi rõ)
+344,Lộc mai,sòi,Stillingia sebifera (L.) Michx.,Euphorbiaceae (Thầu dầu),Tẩy.,(Không dùng).,Có độc.,(Không ghi rõ)
+345,Me,(Không có),Tamarindus indica L.,Caesalpiniaceae (Vang),Nhuận tràng.,(Ăn).,Vị chua.,(Không ghi rõ)
+346,Lạc (Dầu),đậu phụng,Arachis hypogaea L.,Papilionaceae (Cánh bướm),Nhuận tràng nhẹ.,30-60g dầu/ngày.,(Không ghi rõ),(Không ghi rõ)
+347,Tục tùy tử,(Không có),Euphorbia lathyris L.,Euphorbiaceae (Thầu dầu),Tẩy.,0.1-0.2g.,"Vị cay, tính ôn, có độc.","Thận, Đại tràng."
+348,Thanh long,(Không có),Hylocereus undatus (Haw.) Britt. & Rose,Cactaceae (Xương rồng),Nhuận tràng.,(Ăn).,(Không ghi rõ),(Không ghi rõ)
+349,Cây khôi,(Không có),Ardisia sylvestris Pit.,Myrsinaceae (Đơn nem),Chữa đau dạ dày.,10-20g/ngày.,(Không ghi rõ),(Không ghi rõ)
+350,Cây dạ cẩm,(Không có),Oldenlandia capitellata Kuntze,Rubiaceae (Cà phê),"Chữa đau dạ dày, loét miệng, loét lưỡi.",10-25g/ngày.,"Vị ngọt, hơi đắng, tính bình.",(Không ghi rõ)
+351,Mẫu lệ,"vỏ hàu, vỏ sò",Ostrea sp.,(Nguồn gốc động vật),"Chữa đau dạ dày, nôn nước chua. An thần, chữa di tinh, mồ hôi trộm.",4-8g/ngày (dạng bột).,"Vị mặn, chát, tính hơi hàn.","Can, Thận."
+352,Mai mực,ô tặc cốt,Sepia esculenta Hoyle,(Nguồn gốc động vật),"Chữa đau dạ dày, nôn nước chua, cầm máu.",4-8g/ngày (dạng bột).,"Vị mặn, tính ôn.","Can, Thận."
+353,Thạch quyết minh,"cửu khổng, bào ngư",Haliotis sp.,(Nguồn gốc động vật),"Chữa đau dạ dày, đau mắt đỏ, mờ mắt.",15-30g/ngày (dạng thuốc sắc).,"Vị mặn, tính hàn.","Can, Phế, Thận."
+354,Cải bắp,(Không có),Brassica oleracea L. var. capitata L.,Brassicaceae (Cải),Chữa loét dạ dày.,(Ép nước uống).,"Vị ngọt, tính hàn.",(Không ghi rõ)
+355,Cẩu tích,"lông cu li, kim mao cẩu tích",Cibotium barometz (L.) J.Sm.,Dicksoniaceae (Kim mao),"Bổ can thận, mạnh gân xương. Chữa đau lưng, đau khớp, phong thấp. Lông vàng đắp cầm máu.",10-20g/ngày (sắc hoặc ngâm rượu).,"Vị đắng, ngọt, tính ôn.","Can, Thận."
+356,Cốt toái bổ,(Không có),Drynaria roosii Nakaike,Polypodiaceae (Dương xỉ),"Bổ thận, chữa đau lưng, đau xương, ù tai, chảy máu chân răng.",6-12g/ngày.,"Vị đắng, tính ôn.","Can, Thận."
+357,Dây đau xương,(Không có),Tinospora sinensis Merr.,Menispermaceae (Tiết dê),"Chữa tê thấp, đau xương, đau người.",12g/ngày.,"Vị đắng, tính mát.",(Không ghi rõ)
+358,Cây hàm ếch,tam bạch thảo,Saururus chinensis (Lour.) Baill.,Saururaceae (Lá giấp),Chữa tê thấp.,12-24g/ngày.,"Vị ngọt, cay, tính hàn.",(Không ghi rõ)
+359,Hy thiêm,"cỏ đĩ, cứt lợn",Siegesbeckia orientalis L.,Asteraceae (Cúc),"Chữa tê thấp, đau nhức xương, cao huyết áp.",6-12g/ngày.,"Vị đắng, tính hàn.","Can, Thận."
+360,Cây sung,(Không có),Ficus racemosa L.,Moraceae (Dâu tằm),"Chữa tê thấp, đau lưng (dùng rễ).",20-30g rễ/ngày.,"Vị ngọt, chát, tính bình.",(Không ghi rõ)
+361,Thiên niên kiện,(Không có),Homalomena occulta (Lour.) Schott,Araceae (Ráy),"Chữa tê thấp, đau nhức xương, giúp tiêu hóa.",6-12g/ngày.,"Vị đắng, cay, tính ôn.","Can, Thận."
+362,Thổ phục linh,(Không có),Smilax glabra Roxb.,Liliaceae (Hành),"Chữa tê thấp, đau nhức xương, giải độc.",15-30g/ngày.,"Vị ngọt, nhạt, tính bình.","Can, Vị."
+363,Cây xá xị,vù hương,Cinnamomum parthenoxylon (Jack) Meisn.,Lauraceae (Long não),"Chữa tê thấp, đau nhức.",2-4g gỗ/ngày.,(Không ghi rõ),(Không ghi rõ)
+364,Tỳ giải,(Không có),Dioscorea tokoro Makino,Dioscoreaceae (Củ nâu),"Chữa tê thấp, đau lưng.",12-20g/ngày.,"Vị đắng, tính bình.","Can, Vị."
+365,Cây vòi voi,(Không có),Heliotropium indicum L.,Boraginaceae (Vòi voi),"Chữa tê thấp, đau nhức, mụn nhọt.",Dùng ngoài giã đắp.,"Vị đắng, tính mát, có độc.",(Không ghi rõ)
+366,Mật gấu,(Không có),Ursus sp.,(Nguồn gốc động vật),Chữa đau nhức do chấn thương.,1-2g/ngày (hòa rượu uống).,"Vị đắng, tính hàn.","Can, Đởm, Vị."
+367,Chìa vôi,(Không có),Cissus modeccoides Planch.,Vitaceae (Nho),"Chữa đau nhức xương, tê thấp.",20-40g/ngày (dạng thuốc sắc).,"Vị đắng, tính mát.",(Không ghi rõ)
+368,Củ cốt khí,(Không có),Polygonum cuspidatum Siebold & Zucc.,Polygonaceae (Rau răm),"Chữa tê thấp, đau nhức.",10-15g/ngày.,"Vị đắng, tính ấm.","Can, Đởm."
+369,Độc hoạt,(Không có),Angelica pubescens Maxim.,Apiaceae (Hoa tán),"Chữa phong thấp, đau nhức.",6-12g/ngày.,"Vị cay, đắng, tính ôn.","Thận, Bàng quang."
+370,Náng hoa trắng,"tỏi độc, văn châu lan",Crinum asiaticum L.,Amaryllidaceae (Thủy tiên),"Chữa đau nhức, bong gân.",Dùng ngoài.,Có độc.,(Không ghi rõ)
+371,Trinh nữ hoàng cung,(Không có),Crinum latifolium L.,Amaryllidaceae (Thủy tiên),"Chữa u xơ tử cung, u xơ tuyến tiền liệt.",2-5 lá tươi/ngày.,(Không ghi rõ),(Không ghi rõ)
+372,Phòng kỷ,hán phòng kỷ,Stephania tetrandra S.Moore,Menispermaceae (Tiết dê),"Chữa tê thấp, thủy thũng.",6-12g/ngày.,"Vị đắng, cay, tính hàn.","Bàng quang, Phế, Tỳ."
+373,Phấn phòng kỷ,hán phòng kỷ,Stephania tetrandra S.Moore,Menispermaceae (Tiết dê),"Chữa tê thấp, thủy thũng, lợi tiểu.",6-12g/ngày.,"Vị đắng, cay, tính hàn.","Bàng quang, Phế, Tỳ."
+374,Quảng phòng kỷ,(Không có),Aristolochia fangchi Wu,Aristolochiaceae (Mộc thông),Tương tự Phấn phòng kỷ.,4-8g/ngày.,(Tương tự Phấn phòng kỷ),(Tương tự Phấn phòng kỷ)
+375,Mộc phòng kỷ,(Không có),Cocculus trilobus (Thunb.) DC.,Menispermaceae (Tiết dê),Tương tự Phấn phòng kỷ.,6-12g/ngày.,(Tương tự Phấn phòng kỷ),(Tương tự Phấn phòng kỷ)
+376,Tấm duột,(Không có),Desmos cochinchinensis Lour.,Annonaceae (Na),Chữa tê thấp.,8-16g/ngày (rễ).,(Không ghi rõ),(Không ghi rõ)
+377,Lá lốt,(Không có),Piper lolot C.DC.,Piperaceae (Hồ tiêu),"Chữa tê thấp, đau nhức xương, đầy hơi, nôn mửa, đau răng.",8-12g/ngày (lá khô).,"Vị cay, nồng, tính ấm.","Vị, Tỳ, Can, Mật."
+378,Lấu,(Không có),Psychotria reevesii Wall,Rubiaceae (Cà phê),"Chữa tê thấp, đau lưng.",10-15g/ngày.,(Không ghi rõ),(Không ghi rõ)
+379,Trứng cuốc,(Không có),Salacia chinensis L.,Celastraceae (Dây gối),"Chữa tê thấp, đau lưng.",10-20g/ngày.,(Không ghi rõ),(Không ghi rõ)
+380,Châu thụ,(Không có),Gaultheria codonantha Airy Shaw,Ericaceae (Đỗ quyên),"Chữa tê thấp, đau nhức.",1-2g/ngày (dầu xoa bóp).,(Không ghi rõ),(Không ghi rõ)
+381,Dây toàn,(Không có),Millettia reticulata Benth.,Papilionaceae (Cánh bướm),Chữa tê thấp.,10-20g/ngày.,(Không ghi rõ),(Không ghi rõ)
+382,Cây đền,(Không có),Macaranga denticulata (Blume) Muell.Arg.,Euphorbiaceae (Thầu dầu),Chữa đau nhức.,10-15g/ngày.,(Không ghi rõ),(Không ghi rõ)
+383,Gối hạc,(Không có),Leea rubra Blume ex Spreng,Leeaceae (Gối hạc),"Chữa tê thấp, đau lưng, mỏi gối.",15-20g/ngày (rễ).,"Vị đắng, ngọt, tính mát.",(Không ghi rõ)
+384,Hoàng nàn,vỏ doãn,Strychnos wallichiana Steud. ex A.DC.,Loganiaceae (Mã tiền),"Chữa tê thấp, phong hủi, ghẻ lở, ung thư.",0.5-1g/ngày.,Rất độc.,(Không ghi rõ)
+385,Hồi,(Không có),Illicium verum Hook.f.,Illiciaceae (Hồi),"Chữa đau bụng, nôn mửa, tê thấp, đau lưng, đau mình.",1-4g/ngày (quả).,"Vị cay, tính ôn.","Can, Thận, Tỳ, Vị."
+386,Khoai tây,(Không có),Solanum tuberosum L.,Solanaceae (Cà),"Chữa đau bụng, nôn mửa do loét dạ dày, say tàu xe.",10-20g nước ép/ngày.,(Không ghi rõ),(Không ghi rõ)
+387,Kim sương,(Không có),Limacia triandra (Colebr.) Diels,Menispermaceae (Tiết dê),Chữa đau nhức.,(Không rõ liều).,(Không ghi rõ),(Không ghi rõ)
+388,Long não,(Không có),Cinnamomum camphora (L.) Presl,Lauraceae (Long não),"Chữa đau bụng, thổ tả. Dùng ngoài chữa đau nhức, tê thấp.",0.05-0.2g/ngày (uống).,"Vị cay, nóng, tính ấm.","Tâm, Tỳ."
+389,Mã tiền,"củ chi, phiên mộc miết",Strychnos nux-vomica L.,Loganiaceae (Mã tiền),"Chữa tê thấp, đau nhức, bại liệt.",0.1-0.2g/ngày (hạt đã chế).,"Vị đắng, tính hàn, rất độc.","Can, Tỳ."
+390,Mộc qua,(Không có),Chaenomeles lagenaria (Loisel.) Koidz.,Rosaceae (Hoa hồng),"Chữa tê thấp, co duỗi khó khăn, nôn mửa.",6-12g/ngày (quả).,"Vị chua, chát, tính ôn.","Can, Tỳ, Phế."
+391,Vuốt hùm,(Không có),Caesalpinia bonduc (L.) Roxb.,Caesalpiniaceae (Vang),Chữa tê thấp.,4-6g/ngày (hạt).,(Không ghi rõ),(Không ghi rõ)
+392,Bướm bạc,(Không có),Mussaenda pubescens Ait.f.,Rubiaceae (Cà phê),Chữa tê thấp.,"10-20g/ngày (rễ, thân).",(Không ghi rõ),(Không ghi rõ)
+393,Chay,(Không có),Artocarpus tonkinensis A.Chev. ex Gagnep.,Moraceae (Dâu tằm),"Chữa đau lưng, mỏi gối.",20-40g/ngày (rễ).,(Không ghi rõ),(Không ghi rõ)
+394,Rung rúc,(Không có),Pterospermum heterophyllum Hance,Sterculiaceae (Trôm),Chữa tê thấp.,20-30g/ngày (rễ).,(Không ghi rõ),(Không ghi rõ)
+395,Giổi,(Không có),Talauma gioi A.Chev.,Magnoliaceae (Mộc lan),"Chữa tê thấp, đau nhức.",10-20g/ngày (vỏ thân).,(Không ghi rõ),(Không ghi rõ)
+396,Chìa vôi (loại 2),(Không có),Cissus repens Lamk.,Vitaceae (Nho),"Chữa tê thấp, đau nhức.",10-20g/ngày (dây).,(Không ghi rõ),(Không ghi rõ)
+397,Cây ban,(Không có),Clerodendron paniculatum L.,Verbenaceae (Cỏ roi ngựa),Chữa rắn cắn.,Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+398,Bời lời nhớt,(Không có),Litsea glutinosa (Lour.) C.B.Rob.,Lauraceae (Long não),"Chữa mụn nhọt, cầm máu.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+399,Bông báo,(Không có),Buddleja asiatica Lour.,Buddlejaceae (Bọ chó),"Chữa rắn cắn, mụn nhọt.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+400,Cây mỏ quạ,(Không có),Cudrania tricuspidata (Carr.) Bureau,Moraceae (Dâu tằm),"Chữa rắn cắn, mụn nhọt, ho.",10-20g/ngày.,(Không ghi rõ),(Không ghi rõ)
+401,Cà dại hoa trắng,(Không có),Solanum torvum Sw.,Solanaceae (Cà),"Chữa rắn cắn, ong đốt.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+402,Bông ổi,(Không có),Lantana camara L.,Verbenaceae (Cỏ roi ngựa),"Chữa rắn cắn, mụn nhọt.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+403,Tơ mành,(Không có),Cuscuta hygrophilae Pearson,Cuscutaceae (Tơ hồng),"Chữa rắn cắn, mụn nhọt.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+404,Bát giác liên,(Không có),Dysosma chengii (S.Y.Hu) C.Y.Wu,Berberidaceae (Hoàng liên gai),"Chữa rắn cắn, ung thư.",(Có độc).,(Không ghi rõ),(Không ghi rõ)
+405,Bông gạo,(Không có),Bombax ceiba L.,Bombacaceae (Gạo),"Chữa mụn nhọt, sưng tấy.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+406,Cà gai leo,(Không có),Solanum procumbens Lour.,Solanaceae (Cà),"Chữa rắn cắn, đau nhức xương.",10-20g/ngày.,(Không ghi rõ),(Không ghi rõ)
+407,Rau răm,(Không có),Polygonum odoratum Lour.,Polygonaceae (Rau răm),"Chữa rắn cắn, mụn nhọt.",Dùng ngoài.,"Vị cay, tính ấm.",(Không ghi rõ)
+408,Vòng vang,(Không có),Abelmoschus moschatus Medik.,Malvaceae (Bông),Chữa rắn cắn.,Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+409,Lá dong,(Không có),Phrynium parviflorum Roxb.,Marantaceae (Hoàng tinh),"Chữa rắn cắn, say rượu.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+410,Sơn từ cô,(Không có),Pleione bulbocodioides (Franch.) Rolfe,Orchidaceae (Lan),"Chữa rắn cắn, mụn nhọt.",3-6g/ngày.,"Vị ngọt, hơi cay, tính hàn.",(Không ghi rõ)
+411,Phèn đen,(Không có),Phyllanthus reticulatus Poir.,Euphorbiaceae (Thầu dầu),"Chữa rắn cắn, lở loét.",10-15g/ngày.,(Không ghi rõ),(Không ghi rõ)
+412,Ngò đồng,(Không có),Eryngium foetidum L.,Apiaceae (Hoa tán),"Chữa rắn cắn, mụn nhọt.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+413,Cỏ bạc đầu,(Không có),Kyllinga nemoralis (J.R.Forst.) Dandy,Cyperaceae (Cói),"Chữa rắn cắn, mụn nhọt.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+414,Đào lộn hột,(Không có),Anacardium occidentale L.,Anacardiaceae (Đào lộn hột),"Chữa rắn cắn, mụn nhọt.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+415,Xoan nhừ,(Không có),Glochidion eriocarpum Champ. ex Benth.,Euphorbiaceae (Thầu dầu),"Chữa rắn cắn, mụn nhọt.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+416,Bóng nước,(Không có),Impatiens balsamina L.,Balsaminaceae (Bóng nước),"Chữa rắn cắn, hóc xương.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+417,Cây mắm,(Không có),Avicennia marina (Forssk.) Vierh.,Verbenaceae (Cỏ roi ngựa),"Chữa rắn cắn, mụn nhọt.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+418,Rau tàu bay,(Không có),Gynura crepidioides Benth.,Asteraceae (Cúc),Chữa rắn cắn.,Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+419,Cây kim vàng,(Không có),Barleria lupulina Lindl.,Acanthaceae (Ô rô),Chữa rắn cắn.,Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+420,Cốc tinh thảo,(Không có),Eriocaulon sexangulare L.,Eriocaulaceae (Cốc tinh thảo),"Chữa đau mắt, nhức đầu, đau răng.",4-12g/ngày.,"Vị cay, ngọt, tính bình.","Can, Vị."
+421,Mật mông hoa,(Không có),Buddleja officinalis Maxim.,Buddlejaceae (Bọ chó),"Chữa đau mắt đỏ, thong manh.",6-12g/ngày.,"Vị ngọt, tính hơi hàn.",Can.
+422,Cúc áo,"nụ áo vàng, hoa cúc áo",Spilanthes acmella (L.) Murr.,Asteraceae (Cúc),"Chữa đau răng, viêm họng.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+423,Xương khô,(Không có),Euphorbia antiquorum L.,Euphorbiaceae (Thầu dầu),"Chữa sâu răng, đau răng.",Dùng ngoài.,Có độc.,(Không ghi rõ)
+424,Xương rồng,(Không có),Opuntia dillenii (Ker Gawl.) Haw.,Cactaceae (Xương rồng),"Chữa đau răng, đau lưng.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+425,Tế tân,(Không có),Asarum sieboldii Miq.,Aristolochiaceae (Mộc thông),"Chữa đau răng, đau đầu, cảm mạo.",1-4g/ngày.,"Vị cay, tính ôn, có độc.","Tâm, Can, Phế, Thận."
+426,Đơn chân chấu,(Không có),Peristrophe bivalvis (L.) Merr.,Acanthaceae (Ô rô),"Chữa đau nhức, mụn nhọt.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+427,Mía dò,(Không có),Costus speciosus (J.Koenig) Sm.,Zingiberaceae (Gừng),"Chữa đau tai, viêm tai.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+428,Xoài,(Không có),Mangifera indica L.,Anacardiaceae (Đào lộn hột),"Chữa viêm họng, ho, đau răng.",10-15g vỏ thân/ngày.,(Không ghi rõ),(Không ghi rõ)
+429,Nhãn hương,(Không có),Clausena excavata Burm.f.,Rutaceae (Cam),"Chữa đau bụng, tiêu chảy.",10-15g/ngày.,(Không ghi rõ),(Không ghi rõ)
+430,Tật lê,(Không có),Tribulus terrestris L.,Zygophyllaceae (Tật lê),"Chữa đau mắt, đau họng.",8-16g/ngày.,"Vị đắng, cay, tính ôn.","Can, Phế."
+431,Ruồi,(Không có),Musca domestica L.,(Nguồn gốc động vật),Chữa lở loét.,Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+432,Củ gió,(Không có),Dioscorea persimilis Prain & Burkill,Dioscoreaceae (Củ nâu),"Chữa đau họng, ho.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+433,Sao đen,(Không có),Hopea odorata Roxb.,Dipterocarpaceae (Dầu),"Chữa sâu răng, viêm lợi.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+434,Tất bạt,(Không có),Piper longum L.,Piperaceae (Hồ tiêu),"Chữa đau răng, đau đầu.",1-3g/ngày.,"Vị cay, tính nóng.","Vị, Đại tràng."
+435,Cây mướp sát,(Không có),Strophanthus divaricatus (Lour.) Hook. & Arn.,Apocynaceae (Trúc đào),Trợ tim.,(Có độc).,Có độc.,(Không ghi rõ)
+436,Cây sừng dê,(Không có),Strophanthus hispidus DC.,Apocynaceae (Trúc đào),Trợ tim.,(Có độc).,Có độc.,(Không ghi rõ)
+437,Cây thông thiên,(Không có),Thevetia peruviana (Pers.) K.Schum.,Apocynaceae (Trúc đào),Trợ tim.,(Có độc).,Có độc.,(Không ghi rõ)
+438,Cây trúc đào,(Không có),Nerium oleander L.,Apocynaceae (Trúc đào),"Trợ tim, thông tiểu.",(Có độc).,Có độc.,(Không ghi rõ)
+440,Hành biển,(Không có),Scilla maritima L.,Liliaceae (Hành),"Trợ tim, lợi tiểu, long đờm.",(Có độc).,Có độc.,(Không ghi rõ)
+441,Bạc hà,(Không có),Mentha arvensis L.,Lamiaceae (Hoa môi),"Chữa cảm sốt, nhức đầu, sổ mũi, đau họng.",4-8g/ngày.,"Vị cay, tính mát.","Phế, Can."
+442,Bạch chỉ,(Không có),Angelica dahurica (Fisch. ex Hoffm.) Benth. & Hook.f.,Apiaceae (Hoa tán),"Chữa cảm sốt, nhức đầu, đau răng.",6-12g/ngày.,"Vị cay, tính ôn.","Phế, Vị."
+443,Cây cối xay,(Không có),Abutilon indicum (L.) Sweet,Malvaceae (Bông),"Chữa cảm sốt, đau đầu.",8-12g/ngày.,"Vị ngọt, tính bình.",(Không ghi rõ)
+444,Cây cúc bách nhật,(Không có),Gomphrena globosa L.,Amaranthaceae (Giền),"Chữa sốt, hen suyễn.",10-15g/ngày.,(Không ghi rõ),(Không ghi rõ)
+445,Cúc hoa,(Không có),Chrysanthemum indicum L.,Asteraceae (Cúc),"Chữa cảm sốt, nhức đầu, đau mắt đỏ, cao huyết áp.",8-16g/ngày.,"Vị ngọt, đắng, tính hơi hàn.","Phế, Can, Thận."
+446,Đại bi,(Không có),Blumea balsamifera (L.) DC.,Asteraceae (Cúc),"Chữa cảm sốt, ho.",10-20g/ngày.,"Vị cay, đắng, tính ấm.","Phế, Can."
+447,Đạm trúc diệp,(Không có),Lophatherum gracile Brongn.,Poaceae (Lúa),"Chữa sốt, khát nước, tiểu tiện khó.",10-20g/ngày.,"Vị ngọt, nhạt, tính hàn.","Tâm, Tiểu tràng."
+448,Hành,(Không có),Allium fistulosum L.,Alliaceae (Hành),"Chữa cảm sốt, nhức đầu, sổ mũi.",5-10g/ngày.,"Vị cay, tính bình.","Phế, Vị."
+449,Kinh giới,(Không có),Elsholtzia cristata Willd.,Lamiaceae (Hoa môi),"Chữa cảm sốt, nhức đầu, đau họng, mụn nhọt.",6-12g/ngày.,"Vị cay, tính ôn.","Phế, Can."
+450,Dây ký ninh,(Không có),Tinospora crispa (L.) Miers ex Hook.f. & Thomson,Menispermaceae (Tiết dê),"Chữa sốt, sốt rét.",10-20g/ngày.,"Vị đắng, tính hàn.",(Không ghi rõ)
+451,Ma hoàng,(Không có),Ephedra sinica Stapf,Ephedraceae (Ma hoàng),"Chữa cảm mạo, ho, hen suyễn, lợi tiểu.",4-12g/ngày .,"Vị cay, hơi đắng, tính ôn.","Phế, Bàng quang."
+452,Màn kinh tử,(Không có),Vitex trifolia L.,Verbenaceae (Cỏ roi ngựa),"Chữa cảm sốt, nhức đầu, đau mắt.",6-12g/ngày .,"Vị đắng, cay, tính hơi hàn.","Can, Vị, Bàng quang."
+453,Cỏ mần trầu,(Không có),Eleusine indica (L.) Gaertn.,Poaceae (Lúa),"Chữa sốt, lợi tiểu, cao huyết áp.",20-40g/ngày .,"Vị ngọt, nhạt, tính bình.",(Không ghi rõ)
+454,Mẫu đơn bì,(Không có),Paeonia suffruticosa Andrews,Ranunculaceae (Mao Lương),"Chữa sốt, chảy máu cam, kinh nguyệt không đều.",6-12g/ngày .,"Vị cay, đắng, tính hơi hàn.","Tâm, Can, Thận."
+455,Muống biển,(Không có),Ipomoea pes-caprae (L.) R.Br.,Convolvulaceae (Bìm bìm),"Chữa tê thấp, đau lưng.",10-20g/ngày .,"Vị cay, tính ấm.",(Không ghi rõ)
+456,Na,(Không có),Annona squamosa L.,Annonaceae (Na),"Chữa sốt rét. Sát trùng, diệt chấy rận.",Lá: 20-30g/ngày .,(Không ghi rõ),(Không ghi rõ)
+457,Ngưu bàng (Quả),(Không có),Arctium lappa L.,Asteraceae (Cúc),"Chữa cảm cúm, sởi, viêm họng.",6-12g/ngày .,"Vị cay, đắng, tính hàn.","Phế, Vị."
+458,Nhân trần,(Không có),Adenosma caeruleum R.Br.,Scrophulariaceae (Hoa mõm chó),"Chữa sốt, vàng da, viêm gan.",10-20g/ngày .,"Vị đắng, cay, tính hơi hàn.","Can, Đởm, Tỳ, Vị."
+459,Qua lâu nhân,(Không có),Trichosanthes kirilowii Maxim.,Cucurbitaceae (Bí),"Chữa ho có đờm, táo bón.",8-16g/ngày (hạt) .,"Vị ngọt, tính hàn.","Phế, Vị, Đại tràng."
+460,Cây rau má,(Không có),Centella asiatica (L.) Urb.,Apiaceae (Hoa tán),"Chữa sốt, mụn nhọt, rôm sảy, lợi tiểu.",30-40g tươi/ngày .,"Vị đắng, hơi ngọt, tính mát.","Can, Tỳ, Thận."
+461,Sài hồ,(Không có),Bupleurum chinense DC.,Apiaceae (Hoa tán),"Chữa sốt, cảm cúm, sốt rét.",6-12g/ngày .,"Vị đắng, tính hơi hàn.","Can, Đởm."
+462,Sắn dây,cát căn,Pueraria thomsonii Benth.,Papilionaceae (Cánh bướm),"Chữa sốt, khát nước, ban sởi.",8-20g/ngày (rễ) .,"Vị ngọt, cay, tính bình.","Tỳ, Vị."
+463,Tề thái,(Không có),Capsella bursa-pastoris (L.) Medik.,Brassicaceae (Cải),"Chữa sốt, lợi tiểu, cầm máu.",15-30g/ngày .,"Vị ngọt, tính bình.",(Không ghi rõ)
+464,Thạch hộc,(Không có),Dendrobium sp.,Orchidaceae (Lan),"Bổ, chữa sốt, khô miệng.",6-12g/ngày .,"Vị ngọt, nhạt, tính hơi hàn.","Vị, Thận."
+465,Thanh cao hoa vàng,(Không có),Artemisia annua L.,Asteraceae (Cúc),Chữa sốt rét.,4-12g/ngày .,"Vị đắng, tính hàn.","Can, Đởm."
+466,Thanh cao,(Không có),Artemisia apiacea Hance,Asteraceae (Cúc),"Chữa sốt, sốt rét.",6-12g/ngày .,"Vị đắng, tính hàn.","Can, Đởm."
+467,Cây chổi xuể,(Không có),Baeckea frutescens L.,Myrtaceae (Sim),Chữa cảm sốt.,10-15g/ngày .,(Không ghi rõ),(Không ghi rõ)
+468,Thường sơn,(Không có),Dichroa febrifuga Lour.,Hydrangeaceae (Tú cầu),Chữa sốt rét.,4-12g/ngày .,"Vị đắng, tính hàn, có độc.","Tâm, Can, Phế."
+469,Tía tô,(Không có),Perilla frutescens (L.) Britton,Lamiaceae (Hoa môi),"Chữa cảm sốt, ho, an thai.",3-10g/ngày .,"Vị cay, tính ôn.","Tâm, Phế."
+470,Tiền hồ,(Không có),Peucedanum praeruptorum Dunn,Apiaceae (Hoa tán),"Chữa ho có đờm, cảm sốt.",6-12g/ngày .,"Vị đắng, cay, tính hơi hàn.",Phế.
+471,Trúc nhự,(Không có),Bambusa sp.,Poaceae (Lúa),"Chữa sốt, nôn mửa, chảy máu cam.",6-9g/ngày .,"Vị ngọt, tính hơi hàn.","Phế, Vị."
+472,Xạ can,rẻ quạt,Belamcanda chinensis (L.) DC.,Iridaceae (La dơn),"Chữa viêm họng, ho có đờm.",3-6g/ngày .,"Vị đắng, tính hàn, có độc.","Phế, Can."
+473,Xuyên khung,(Không có),Ligusticum wallichii Franch.,Apiaceae (Hoa tán),"Chữa nhức đầu, cảm mạo, kinh nguyệt không đều.",4-8g/ngày .,"Vị cay, tính ôn.","Can, Đởm, Tâm bào."
+474,Bầu đất,(Không có),Gynura procumbens (Lour.) Merr.,Asteraceae (Cúc),"Chữa sốt, viêm họng.",6-12 lá/ngày .,(Không ghi rõ),(Không ghi rõ)
+475,Dướng,(Không có),Broussonetia papyrifera (L.) L'Hér. ex Vent.,Moraceae (Dâu tằm),"Chữa sốt, ho.",10-20g/ngày .,(Không ghi rõ),(Không ghi rõ)
+476,Húng quế,(Không có),Ocimum basilicum L.,Lamiaceae (Hoa môi),"Chữa cảm sốt, đau đầu.",(Dùng làm gia vị) .,(Không ghi rõ),(Không ghi rõ)
+477,Trà tiên,(Không có),Angelica sinensis (Oliv.) Diels,Apiaceae (Hoa tán),Chữa cảm mạo.,6-12g/ngày .,"Vị cay, tính ấm.",(Không ghi rõ)
+478,Gắm,(Không có),Gnetum montanum Markgr.,Gnetaceae (Gắm),"Chữa sốt, sốt rét.",15-20g/ngày .,(Không ghi rõ),(Không ghi rõ)
+479,Hương nhu,(Không có),Ocimum gratissimum L.,Lamiaceae (Hoa môi),"Chữa cảm sốt, say nắng, đau bụng.",6-12g/ngày .,"Vị cay, tính hơi ôn.","Phế, Vị."
+480,Khương hoạt,(Không có),Notopterygium incisum Ting ex H.T.Chang,Apiaceae (Hoa tán),"Chữa cảm mạo, đau đầu, đau mình, tê thấp.",4-12g/ngày.,"Vị cay, đắng, tính ôn.","Bàng quang, Can, Thận."
+481,Niễng,(Không có),Zizania caduciflora (Turcz. ex Trin.) Hand.-Mazz.,Poaceae (Lúa),"Chữa sốt, khát nước.",20-30g rễ/ngày.,"Vị ngọt, tính hàn.",(Không ghi rõ)
+482,Phòng phong,(Không có),Saposhnikovia divaricata (Turcz.) Schischk.,Apiaceae (Hoa tán),"Chữa cảm mạo, đau đầu, đau mình, tê thấp.",6-12g/ngày.,"Vị cay, ngọt, tính ôn.","Bàng quang, Can, Tỳ."
+483,Dây quai bị,(Không có),Hodgsonia macrocarpa (Blume) Cogn.,Cucurbitaceae (Bí),Chữa sốt.,10-20g thân/ngày.,(Không ghi rõ),(Không ghi rõ)
+484,Thăng ma,(Không có),Cimicifuga foetida L.,Ranunculaceae (Mao Lương),"Chữa sốt, đau họng, ban sởi.",3-9g/ngày.,"Vị ngọt, cay, tính hơi hàn.","Phế, Tỳ, Vị, Đại tràng."
+485,Canh châu,(Không có),Ardisia filiformis Walker,Myrsinaceae (Đơn nem),"Chữa sốt, ho.",10-20g lá/ngày.,(Không ghi rõ),(Không ghi rõ)
+486,Cánh kiến đỏ,tử thảo nhung,(Nhựa côn trùng Laccifer lacca),(Nhựa côn trùng),"Chữa sốt, ban sởi.",2-4g/ngày.,"Vị đắng, tính hàn.","Tâm, Can."
+487,Đinh hương,(Không có),Syzygium aromaticum (L.) Merr. & L.M.Perry,Myrtaceae (Sim),"Sát trùng, chữa đau bụng, nôn mửa, đau răng.",0.2-0.5g/ngày.,"Vị cay, tính ôn.","Tỳ, Vị, Thận."
+488,Ngâu,(Không có),Aglaia odorata Lour.,Meliaceae (Xoan),"Chữa sốt, ho.",10-15g hoa hoặc cành lá/ngày.,(Không ghi rõ),(Không ghi rõ)
+489,Bàm bàm,(Không có),Pavetta indica L.,Rubiaceae (Cà phê),Chữa sốt.,10-15g rễ/ngày.,Vị đắng.,(Không ghi rõ)
+490,Bụng báng,(Không có),Glochidion glomerulatum (Miq.) Boerl.,Euphorbiaceae (Thầu dầu),Chữa sốt.,10-20g lá/ngày.,(Không ghi rõ),(Không ghi rõ)
+491,Canh ki na,(Không có),Cinchona sp.,Rubiaceae (Cà phê),"Chữa sốt rét, hạ sốt, bổ đắng.",1-2g bột/ngày (hạ sốt).,Vị đắng.,(Không ghi rõ)
+492,Củ khỉ,(Không có),Milletia sp.,Papilionaceae (Cánh bướm),Chữa sốt.,(Không ghi rõ).,(Không ghi rõ),(Không ghi rõ)
+493,Cúc mốc,(Không có),Laggera alata (D.Don) Sch.Bip. ex Oliv.,Asteraceae (Cúc),Chữa sốt.,10-15g/ngày.,(Không ghi rõ),(Không ghi rõ)
+494,Cúc tần,(Không có),Pluchea indica (L.) Less.,Asteraceae (Cúc),"Chữa cảm sốt, nhức đầu.",10-20g lá/ngày.,(Không ghi rõ),(Không ghi rõ)
+495,Đậu sị,(Không có),(Sản phẩm lên men),(Sản phẩm lên men),"Chữa cảm sốt, nhức đầu.",8-15g/ngày.,"Vị đắng, tính hàn.","Phế, Vị."
+496,Rau mùi tàu,(Không có),Eryngium foetidum L.,Apiaceae (Hoa tán),"Chữa cảm cúm, sởi.",15-20g/ngày.,(Không ghi rõ),(Không ghi rõ)
+497,Sả,(Không có),Cymbopogon citratus (DC.) Stapf,Poaceae (Lúa),"Chữa cảm sốt, đau bụng.",10-20g/ngày.,"Vị cay, tính ấm.",(Không ghi rõ)
+498,Xương sông,(Không có),Blumea lacera (Burm.f.) DC.,Asteraceae (Cúc),"Chữa cảm sốt, ho.",15-20g/ngày.,"Vị đắng, cay, tính bình.",(Không ghi rõ)
+499,Bỏng nổ,(Không có),Floscopa scandens Lour.,Commelinaceae (Thài lài),"Chữa cảm sốt, viêm họng.",20-40g/ngày.,"Vị ngọt, nhạt, tính mát.",(Không ghi rõ)
+500,Bưởi (Lá),(Không có),Citrus grandis (L.) Osbeck,Rutaceae (Cam),"Chữa cảm cúm, nhức đầu.",(Dùng xông).,(Không ghi rõ),(Không ghi rõ)
+501,Củ ấu,(Không có),Trapa bispinosa Roxb.,Trapaceae (Ấu),"Chữa say nắng, sốt.",(Ăn).,"Vị ngọt, tính mát.",(Không ghi rõ)
+502,So đũa,(Không có),Sesbania grandiflora (L.) Pers.,Papilionaceae (Cánh bướm),"Chữa cảm cúm, sổ mũi.",15-30g lá/ngày.,(Không ghi rõ),(Không ghi rõ)
+503,Cây gáo,(Không có),Sarcocephalus cordatus Miq.,Rubiaceae (Cà phê),"Chữa sốt, tiêu chảy.",10-15g vỏ thân/ngày.,(Không ghi rõ),(Không ghi rõ)
+504,Cây me rừng,(Không có),Phyllanthus emblica L.,Euphorbiaceae (Thầu dầu),Chữa cảm sốt.,10-20g quả/ngày.,"Vị chua, ngọt, tính mát.",(Không ghi rõ)
+505,Móc mèo núi,(Không có),Bauhinia bracteata (Graham ex Benth.) Baker,Caesalpiniaceae (Vang),Chữa sốt.,10-15g/ngày.,(Không ghi rõ),(Không ghi rõ)
+506,Cây cổ bình,(Không có),Polygonum chinense L.,Polygonaceae (Rau răm),"Chữa sốt, lỵ.",10-15g/ngày.,(Không ghi rõ),(Không ghi rõ)
+507,Tía tô dại,(Không có),Salvia plebeia R.Br.,Lamiaceae (Hoa môi),"Chữa ho, cảm sốt.",10-15g/ngày.,(Không ghi rõ),(Không ghi rõ)
+508,Cây thuốc phiện,"a phiến, nha phiến",Papaver somniferum L.,Papaveraceae (Thuốc phiện),"(Nhựa) Giảm đau, chữa ho, ỉa lỏng. (Vỏ quả) Chữa ho, lỵ.",(Theo chỉ định của bác sĩ).,"Vị chua, chát, tính bình, có độc.","Phế, Đại tràng, Thận."
+509,Cây cà độc dược,(Không có),Datura metel L.,Solanaceae (Cà),"Chữa ho, hen suyễn, giảm đau (đau dạ dày, đau khớp).",Hoa/lá: 0.04-0.1g/lần.,"Vị cay, tính ôn, có độc.","Tâm, Can, Phế."
+510,Thiên tiên tử,(Không có),Hyoscyamus niger L.,Solanaceae (Cà),"Chữa ho, hen suyễn, giảm đau, an thần.",0.01-0.03g/lần.,"Vị đắng, tính ôn, có độc.","Tâm, Vị, Can."
+511,Ma (Cần sa),"gai dầu, đại ma",Cannabis sativa L.,Cannabaceae (Gai mèo),"Giảm đau, an thần, chữa hen.",(Thuốc gây nghiện).,Có độc.,(Không ghi rõ)
+512,Đào (Hạt),đào nhân,Prunus persica (L.) Batsch,Rosaceae (Hoa hồng),"Chữa ho, táo bón, bế kinh.",6-12g/ngày.,"Vị đắng, ngọt, tính bình.","Tâm, Can, Phế, Đại tràng."
+513,Cỏ trói gà,"thanh táo, tần cửu",Justicia gendarussa L.,Acanthaceae (Ô rô),"Chữa ho, tê thấp, đau nhức.",15-20g/ngày.,(Không ghi rõ),(Không ghi rõ)
+514,Húng chanh,rau tần lá dày,Coleus aromaticus Benth.,Lamiaceae (Hoa môi),"Chữa ho, cảm sốt, viêm họng.",10-16g lá tươi/ngày.,"Vị cay, tính ấm.",Phế.
+515,Ráng trắc,"tổ chim, tổ diều",Asplenium nidus L.,Aspleniaceae (Tổ điểu),Chữa ho.,10-20g/ngày.,(Không ghi rõ),(Không ghi rõ)
+516,Cải canh (Hạt),giới tử,Brassica juncea (L.) Czern.,Brassicaceae (Cải),"Chữa ho, hen suyễn, long đờm.",4-12g/ngày.,"Vị cay, tính ôn.",Phế.
+517,Củ cải (Hạt),la bặc tử,Raphanus sativus L.,Brassicaceae (Cải),"Chữa ho, tiêu đờm, đầy bụng.",6-12g/ngày.,"Vị cay, ngọt, tính bình.","Phế, Tỳ, Vị."
+518,Thiên môn đông,(Không có),Asparagus cochinchinensis (Lour.) Merr.,Liliaceae (Hành),"Bổ, chữa ho, long đờm.",6-12g/ngày.,"Vị ngọt, đắng, tính hàn.","Phế, Thận."
+519,Mạch môn đông,(Không có),Ophiopogon japonicus (L.f.) Ker Gawl.,Liliaceae (Hành),"Chữa ho, long đờm, khô miệng.",6-16g/ngày.,"Vị ngọt, hơi đắng, tính hàn.","Tâm, Phế, Vị."
+520,Cát cánh,(Không có),Platycodon grandiflorum (Jacq.) A.DC.,Campanulaceae (Hoa chuông),"Chữa ho có đờm, viêm họng.",4-8g/ngày.,"Vị đắng, cay, tính hơi ôn.",Phế.
+521,Cây nhót tây (Lá),tỳ bà diệp,Eriobotrya japonica (Thunb.) Lindl.,Rosaceae (Hoa hồng),"Chữa ho, nôn mửa.",6-12g/ngày.,"Vị đắng, tính bình.","Phế, Vị."
+522,Cây bồng bồng,lá hen,Calotropis gigantea (L.) Dryand.,Asclepiadaceae (Thiên lý),"Chữa hen, ho.",2-5 lá/ngày.,"Vị đắng, tính mát, có độc.",(Không ghi rõ)
+523,Bách hợp,(Không có),Lilium brownii F.E.Br. ex Miellez,Liliaceae (Hành),"Chữa ho, ho lao.",6-12g/ngày.,"Vị ngọt, hơi đắng, tính hơi hàn.","Tâm, Phế."
+524,Cây dâu (Vỏ rễ),tang bạch bì,Morus alba L.,Moraceae (Dâu tằm),"Chữa ho, hen, lợi tiểu.",6-12g/ngày.,"Vị ngọt, tính hàn.",Phế.
+525,Cây bọ mắm,(Không có),Pouzolzia zeylanica (L.) Benn.,Urticaceae (Gai),"Chữa ho, viêm họng.",10-20g/ngày.,"Vị ngọt, nhạt, tính mát.",(Không ghi rõ)
+526,Hẹ,(Không có),Allium tuberosum Roxb.,Alliaceae (Hành),"Chữa ho, đau bụng.",6-12g hạt/ngày.,"Vị cay, hơi chua, tính ấm.","Can, Vị, Thận."
+527,Núc nác,(Không có),Oroxylum indicum (L.) Kurz,Bignoniaceae (Chùm ớt),"Chữa ho, viêm họng, lỵ.",6-12g vỏ thân/ngày.,"Vị đắng, tính mát.","Phế, Can."
+528,Tô hạp hương,(Không có),Liquidambar orientalis Mill.,Hamamelidaceae (Sau sau),"Chữa ho, an thần.",0.3-1g/ngày.,"Vị ngọt, cay, tính ôn.","Tâm, Tỳ."
+529,Cánh kiến trắng,an tức hương,Styrax tonkinensis (Pierre) Craib ex Hartwich,Styracaceae (Bồ đề),"Chữa ho, long đờm, an thần.",0.3-2g/ngày.,"Vị cay, đắng, tính bình.","Tâm, Can, Tỳ."
+530,Viễn chí,(Không có),Polygala sibirica L.,Polygalaceae (Viễn chí),"Chữa ho, long đờm.",4-10g/ngày.,"Vị đắng, cay, tính ôn.","Tâm, Phế."
+531,Bồ kết (Quả),(Không có),Gleditsia fera (Lour.) Merr.,Caesalpiniaceae (Vang),"Chữa ho, tiêu đờm.",0.5-1g/ngày.,"Vị cay, mặn, tính ôn, có độc.","Phế, Đại tràng."
+532,Mướp đắng,khổ qua,Momordica charantia L.,Cucurbitaceae (Bí),"Chữa ho, hạ sốt.",6-12g hạt/ngày (sắc).,"Vị đắng, tính hàn.",(Không ghi rõ)
+533,Trám,trám trắng,Canarium album (Lour.) Raeusch.,Burseraceae (Trám),"Chữa ho, viêm họng, mất tiếng.",10-20g quả/ngày (sắc hoặc ngậm).,"Vị chua, ngọt, chát, tính ôn.","Phế, Vị."
+534,Thị đế,tai quả thị,Diospyros kaki L.f.,Ebenaceae (Thị),"Chữa ho, nấc.",6-12g/ngày.,"Vị đắng, chát, tính bình.",Vị.
+535,Tử uyển,(Không có),Aster tataricus L.f.,Asteraceae (Cúc),"Chữa ho, long đờm.",5-10g/ngày.,"Vị đắng, cay, tính ôn.",Phế.
+536,Tràm (Lá và tinh dầu),(Không có),Melaleuca leucadendra L.,Myrtaceae (Sim),"(Tinh dầu) Sát trùng đường hô hấp, chữa ho, cảm.",Uống hoặc xông.,(Không ghi rõ),(Không ghi rõ)
+537,Bạch đàn (Lá và tinh dầu),khuynh diệp,Eucalyptus sp.,Myrtaceae (Sim),"Sát trùng đường hô hấp, chữa ho, cảm.",Uống hoặc xông.,(Không ghi rõ),(Không ghi rõ)
+538,Cây một lá,thanh thiên quỳ,Nervilia fordii (Hance) Schltr.,Orchidaceae (Lan),"Chữa ho lao, viêm họng.",8-20g củ tươi/ngày.,"Vị ngọt, nhạt, tính mát.",(Không ghi rõ)
+539,Hồng bì,"quất bì, hoàng bì",Clausena lansium (Lour.) Skeels,Rutaceae (Cam),"Chữa ho, long đờm.",4-8g lá hoặc vỏ rễ/ngày.,"Vị đắng, cay, tính bình.",(Không ghi rõ)
+540,Cóc mẳn,(Không có),Centipeda minima (L.) A.Braun & Asch.,Asteraceae (Cúc),"Chữa ho, hen, đau mắt.",6-12g/ngày.,"Vị cay, tính ấm.",(Không ghi rõ)
+541,Phật thủ,(Không có),Citrus medica L. var. sarcodactylis,Rutaceae (Cam),"Chữa ho, đau bụng.",3-6g quả/ngày.,"Vị cay, đắng, chua, tính ôn.","Can, Tỳ, Phế, Vị."
+542,Gai tầm xoọng,(Không có),Randia spinosa (Thunb.) Poir.,Rubiaceae (Cà phê),Chữa ho.,6-12g quả/ngày.,(Không ghi rõ),(Không ghi rõ)
+543,Bạch cập,(Không có),Bletilla striata (Thunb.) Rchb.f.,Orchidaceae (Lan),"Chữa ho ra máu, cầm máu.",6-15g/ngày.,"Vị đắng, ngọt, tính hơi hàn.",Phế.
+544,Biến hóa,(Không có),Cissus javana DC.,Vitaceae (Nho),Chữa ho.,10-20g/ngày.,(Không ghi rõ),(Không ghi rõ)
+545,Bồ hòn,(Không có),Sapindus saponaria L.,Sapindaceae (Bồ hòn),"Chữa ho, trừ đờm.",0.5-1g hạt/ngày.,"Vị đắng, tính hàn, có độc.",(Không ghi rõ)
+546,Bối mẫu,(Không có),Fritillaria sp.,Liliaceae (Hành),"Chữa ho có đờm, ho lao.",3-9g/ngày.,"Vị đắng, tính hơi hàn.","Tâm, Phế."
+547,Cà dại hoa tím,(Không có),Solanum indicum L.,Solanaceae (Cà),"Chữa ho, đau răng.",8-16g rễ/ngày.,"Vị cay, tính ấm.",(Không ghi rõ)
+548,Cải cúc,tần ô,Chrysanthemum coronarium L.,Asteraceae (Cúc),Chữa ho.,10-15g/ngày.,"Vị ngọt, nhạt, tính mát.",(Không ghi rõ)
+549,Chùa dù,(Không có),Elsholtzia winitiana Craib.,Lamiaceae (Hoa môi),"Chữa ho, cảm sốt.",10-20g/ngày.,(Không ghi rõ),(Không ghi rõ)
+550,Chóc gai,(Không có),Lasia spinosa (L.) Thwaites,Araceae (Ráy),Chữa ho.,20-40g thân rễ/ngày.,(Không ghi rõ),(Không ghi rõ)
+551,Hổ vĩ,"hổ thiệt, lưỡi hổ",Sansevieria trifasciata Prain,Agavaceae (Thùa),"Chữa ho, viêm họng.",6-12g/ngày.,(Không ghi rõ),(Không ghi rõ)
+552,Rau khúc,(Không có),Gnaphalium affine D.Don,Asteraceae (Cúc),Chữa ho có đờm.,10-15g/ngày.,"Vị ngọt, tính bình.",Phế.
+553,Mướp tây,su su,Sechium edule (Jacq.) Sw.,Cucurbitaceae (Bí),Chữa ho.,(Ăn).,(Không ghi rõ),(Không ghi rõ)
+554,Cây nhót,(Không có),Elaeagnus latifolia L.,Elaeagnaceae (Nhót),"Chữa ho, khó thở, lỵ.",Lá/rễ: 10-15g; Quả: 6-12g/ngày.,(Không ghi rõ),(Không ghi rõ)
+555,Ruột gà,phượng vĩ thảo,Pteris multifida Poir.,Pteridaceae (Lá phẹ),"Chữa ho, lỵ.",15-30g/ngày.,"Vị ngọt, nhạt, hơi đắng, tính hàn.",(Không ghi rõ)
+556,Sấu,(Không có),Dracontomelon duperreanum Pierre,Anacardiaceae (Đào lộn hột),"Chữa ho, viêm họng.","(Ăn quả, sắc lá uống).","Vị chua, ngọt, tính mát.",(Không ghi rõ)
+557,Cây si,(Không có),Ficus benjamina L.,Moraceae (Dâu tằm),Chữa ho.,20-40g rễ/ngày.,(Không ghi rõ),(Không ghi rõ)
+558,Lười ươi,"đười ươi, an nam tử",Scaphium macropodum (Miq.) Beumee ex K.Heyne,Sterculiaceae (Trôm),"Chữa ho, viêm họng, chảy máu cam.",2-5 hạt/ngày.,"Vị ngọt, tính hàn.","Phế, Đại tràng."
+559,Cây bã thuốc,(Không có),Nicandra physalodes (L.) Gaertn.,Solanaceae (Cà),"Chữa ho, sốt.",8-12g/ngày.,(Không ghi rõ),(Không ghi rõ)
+560,Chanh,(Không có),Citrus limon (L.) Burm.f.,Rutaceae (Cam),"Chữa ho, viêm họng.",(Ngậm).,"Vị chua, tính mát.",(Không ghi rõ)
+561,Dâu gia xoan,nhãn hương,Clausena excavata Burm.f.,Rutaceae (Cam),"Chữa ho, đau bụng, lỵ.",10-15g rễ/ngày.,(Không ghi rõ),(Không ghi rõ)
+562,Tri mẫu,(Không có),Anemarrhena asphodeloides Bunge,Liliaceae (Hành),"Chữa ho, sốt, khô miệng.",6-12g/ngày.,"Vị đắng, tính hàn.","Phế, Vị, Thận."
+563,Mù mắt,(Không có),Excoecaria agallocha L.,Euphorbiaceae (Thầu dầu),Chữa ho (dùng gỗ).,(Không ghi rõ liều).,(Nhựa) Có độc.,(Không ghi rõ)
+564,Hồng xiêm,(Không có),Manilkara zapota (L.) P.Royen,Sapotaceae (Hồng xiêm),"Chữa ho, hạ sốt.",15-20g quả xanh/ngày.,(Không ghi rõ),(Không ghi rõ)
+565,Thủy tiên,(Không có),Narcissus tazetta L. var. chinensis M.Roem.,Amaryllidaceae (Thủy tiên),"Chữa ho, long đờm, gây nôn.",(Có độc).,"Vị đắng, tính hàn, có độc.",(Không ghi rõ)
+566,Sen cạn,(Không có),Tropaeolum majus L.,Tropaeolaceae (Sen cạn),"Chữa ho, long đờm.",20-30g/ngày.,(Không ghi rõ),(Không ghi rõ)
+567,La hán (Quả),(Không có),Momordica grosvenorii Swingle,Cucurbitaceae (Bí),"Chữa ho, viêm họng.",1-3 quả/ngày.,"Vị ngọt, tính mát.","Phế, Đại tràng."
+568,Bạch quả,ngân hạnh,Ginkgo biloba L.,Ginkgoaceae (Bạch quả),"Chữa ho, hen suyễn.",6-12g hạt/ngày.,"Vị ngọt, đắng, chát, tính bình, có độc.",Phế.
+569,Cây nắp ấm,(Không có),Nepenthes mirabilis (Lour.) Druce,Nepenthaceae (Nắp ấm),Chữa ho.,"8-16g thân, lá/ngày.",(Không ghi rõ),(Không ghi rõ)
+570,Khoản đông hoa,(Không có),Tussilago farfara L.,Asteraceae (Cúc),"Chữa ho, hen suyễn, long đờm.",6-12g hoa/ngày.,"Vị cay, tính ôn.",Phế.
+571,Bình vôi,(Không có),Stephania rotunda Lour.,Menispermaceae (Tiết dê),"An thần, gây ngủ, giảm đau. Chữa mất ngủ, sốt nóng, nhức đầu.",3-6g củ/ngày .,"Vị đắng, tính hàn.","Can, Tỳ."
+572,Lạc tiên,chùm bao,Passiflora foetida L.,Passifloraceae (Lạc tiên),"An thần, chữa mất ngủ, tim hồi hộp.",20-40g dây lá/ngày .,"Vị ngọt, tính mát.","Tâm, Can."
+573,Sen (Tâm sen),liên tâm,Nelumbo nucifera Gaertn.,Nymphaeaceae (Sen),"An thần, chữa mất ngủ, hạ huyết áp.",2-4g/ngày .,"Vị đắng, tính hàn.",Tâm.
+574,Cây vông nem,(Không có),Erythrina variegata L.,Papilionaceae (Cánh bướm),"An thần, gây ngủ. Chữa mất ngủ, phong thấp, lỵ.",8-16g lá/ngày .,"Vị đắng, nhạt, tính bình.","Can, Thận."
+575,Táo ta (Nhân hạt),toan táo nhân,Ziziphus mauritiana Lam.,Rhamnaceae (Táo ta),"An thần, gây ngủ.",6-12g/ngày (sao đen) .,"Vị ngọt, tính bình.","Tâm, Can, Đởm, Tỳ."
+576,Long nhãn,(Không có),Dimocarpus longan Lour.,Sapindaceae (Bồ hòn),"Bổ tâm tỳ, an thần. Chữa hay quên, mất ngủ, hoảng sợ.",9-18g/ngày .,"Vị ngọt, tính ôn.","Tâm, Tỳ."
+577,Cây hoa nhài,(Không có),Jasminum sambac (L.) Aiton,Oleaceae (Nhài),"(Rễ) An thần, giảm đau. (Hoa) Thanh nhiệt, giải biểu.",Rễ: 1-1.5g. Hoa: 3-6g .,"Rễ: đắng, ôn, có độc. Hoa: cay, ngọt, mát.",(Không ghi rõ)
+578,Sì to,(Không có),Entada phaseoloides (L.) Merr.,Mimosaceae (Trinh nữ),An thần.,0.5-1g/ngày .,(Không ghi rõ),(Không ghi rõ)
+579,Cây xấu hổ,trinh nữ,Mimosa pudica L.,Mimosaceae (Trinh nữ),"An thần, chữa mất ngủ, đau nhức xương khớp.",6-12g/ngày .,"Vị ngọt, hơi se, tính hơi hàn.",(Không ghi rõ)
+580,Thuyền thuế,xác ve sầu,(Không có),(Nguồn gốc động vật),"Chữa trẻ em kinh giật, co giật, khóc đêm.",3-6g/ngày .,"Vị ngọt, mặn, tính hàn.","Can, Phế."
+581,Trân châu,ngọc trai,(Không có),(Nguồn gốc động vật),"An thần, trấn kinh, chữa co giật, hoa mắt.",0.3-0.6g/ngày .,"Vị ngọt, mặn, tính hàn.","Tâm, Can."
+582,Ngưu hoàng,(Không có),"(Sỏi mật trâu, bò)",(Nguồn gốc động vật),"An thần, trấn kinh, chữa sốt cao, co giật, mê sảng.",0.2-0.5g/ngày .,"Vị đắng, tính mát.","Tâm, Can."
+583,Thiên trúc hoàng,(Không có),(Silic trong cây tre),(Sản phẩm thực vật),"Chữa sốt cao, co giật, mê sảng.",3-6g/ngày .,"Vị ngọt, tính hàn.","Tâm, Can, Đởm."
+584,Chỉ cụ,khúng khéng,Hovenia dulcis Thunb.,Rhamnaceae (Táo ta),Giải độc rượu.,6-12g/ngày .,"Vị ngọt, tính bình.",(Không ghi rõ)
+585,Chu sa - Thần sa,(Không có),(Thủy ngân sunfua - HgS),(Khoáng vật),"An thần, trấn kinh, chữa mất ngủ, kinh sợ.",0.3-1.5g/ngày .,"Vị ngọt, tính hơi hàn, có độc.",Tâm.
+596,Kỷ tử,(Không có),Lycium chinense Mill.,Solanaceae (Cà),"Bổ, chữa cơ thể suy nhược, đau lưng mỏi gối, di tinh.",6-12g/ngày.,"Vị ngọt, tính bình.","Can, Thận, Phế."
+597,Thỏ ty tử,(Không có),Cuscuta chinensis Lam.,Cuscutaceae (Tơ hồng),"Bổ, chữa di tinh, liệt dương, đau lưng mỏi gối.",6-12g/ngày.,"Vị ngọt, cay, tính hơi ôn.","Can, Thận."
+598,Cây sữa,"mò cua, mồng cua",Alstonia scholaris (L.) R.Br.,Apocynaceae (Trúc đào),"Bổ, chữa sốt rét, lỵ.",4-6g vỏ/ngày.,"Vị đắng, tính mát.",(Không ghi rõ)
+599,Cây xộp,"cây trâu cổ, bị lệ",Ficus pumila L.,Moraceae (Dâu tằm),"Bổ, tráng dương, chữa di tinh, liệt dương, đau lưng.",12-20g quả/ngày.,"Vị ngọt, tính bình.",(Không ghi rõ)
+600,Phá cố chỉ,(Không có),Psoralea corylifolia L.,Papilionaceae (Cánh bướm),"Bổ thận, tráng dương, chữa di tinh, đái són.",6-12g/ngày.,"Vị cay, đắng, tính đại ôn.","Tỳ, Thận."
+601,Bạng hoa,(Không có),Rhoeo discolor (L'Hér.) Hance,Commelinaceae (Thài lài),"Chữa ho ra máu, đi lỏng.",15-30g/ngày.,"Vị ngọt, nhạt, tính hàn.",(Không ghi rõ)
+602,Quế Thanh Hóa,(Không có),Cinnamomum loureiroi Nees,Lauraceae (Long não),"Bổ, chữa chân tay lạnh, đau bụng, tiêu hóa kém, kinh bế.",1-4g/ngày.,"Vị ngọt, cay, tính đại nhiệt.","Can, Thận, Tỳ."
+603,Quế quan,(Không có),Cinnamomum cassia Blume,Lauraceae (Long não),Tương tự Quế Thanh Hóa.,Tương tự Quế Thanh Hóa.,Tương tự Quế Thanh Hóa.,Tương tự Quế Thanh Hóa.
+604,Cam thảo bắc,(Không có),Glycyrrhiza uralensis Fisch.,Papilionaceae (Cánh bướm),"Bổ tỳ vị, chữa ho, giải độc.",4-20g/ngày.,"Vị ngọt, tính bình.","Tỳ, Vị, Phế, Tâm."
+605,Cam thảo dây,(Không có),Abrus precatorius L.,Papilionaceae (Cánh bướm),"Chữa ho, cảm sốt.",1-2g dây lá/ngày.,Vị ngọt.,Phế.
+606,Cam thảo nam,(Không có),Scoparia dulcis L.,Scrophulariaceae (Hoa mõm chó),"Chữa ho, sốt.",6-12g/ngày.,"Vị ngọt, hơi đắng, tính mát.",(Không ghi rõ)
+607,Cây sóng rắn,ba gạc Ấn Độ,Rauvolfia serpentina Benth. ex Kurz,Apocynaceae (Trúc đào),"Bổ, an thần, hạ huyết áp.",(Theo chỉ định).,(Không ghi rõ),(Không ghi rõ)
+608,Ngũ vị tử,(Không có),Schisandra chinensis (Turcz.) Baill.,Schisandraceae (Ngũ vị),"Bổ, chữa ho, di tinh, mồ hôi trộm.",2-8g/ngày.,"Vị chua, mặn, tính ôn.","Phế, Thận."
+609,Cải xoong,(Không có),Nasturtium officinale R.Br.,Brassicaceae (Cải),"Bổ, chữa ho.",(Ăn).,(Không ghi rõ),(Không ghi rõ)
+610,Âu ô đầu,(Không có),Aconitum napellus L.,Ranunculaceae (Mao Lương),Giảm đau.,(Rất độc).,"Vị cay, tính nóng, rất độc.",(Không ghi rõ)
+611,Ô đầu và phụ tử,(Không có),Aconitum carmichaelii Debeaux,Ranunculaceae (Mao Lương),"Hồi dương, cứu nghịch, chữa chân tay lạnh, đau nhức.",3-12g/ngày (chế).,"Vị cay, ngọt, tính nóng, rất độc.","Tâm, Tỳ, Thận."
+612,Ô đầu Việt Nam,(Không có),Aconitum fortunei Hemsl.,Ranunculaceae (Mao Lương),Tương tự Ô đầu.,(Rất độc).,(Tương tự Ô đầu).,(Tương tự Ô đầu).
+613,Đông trùng hạ thảo,(Không có),Cordyceps sinensis (Berk.) Sacc.,(Nấm),"Bổ, chữa ho lao, liệt dương, di tinh.",6-12g/ngày.,"Vị ngọt, tính ôn.","Phế, Thận."
+614,Hạt gấc,mộc miết tử,Momordica cochinchinensis (Lour.) Spreng.,Cucurbitaceae (Bí),"Chữa mụn nhọt, sưng tấy, quai bị.",Dùng ngoài.,"Vị đắng, hơi ngọt, tính ôn, có độc.","Can, Đại tràng."
+615,Hoàng kỳ,(Không có),Astragalus membranaceus (Fisch.) Bunge,Papilionaceae (Cánh bướm),"Bổ, lợi tiểu, chữa cơ thể suy nhược, ra mồ hôi trộm.",8-20g/ngày.,"Vị ngọt, tính ôn.","Tỳ, Phế."
+616,Hồng đằng,(Không có),Sargentodoxa cuneata (Oliv.) Rehder & E.H.Wilson,Sargentodoxaceae (Huyết đằng),"Bổ huyết, chữa thiếu máu, kinh nguyệt không đều.",10-16g/ngày.,"Vị đắng, chát, tính bình.",Can.
+617,Kẹo mạch nha,(Không có),(Sản phẩm từ ngũ cốc),(Sản phẩm từ ngũ cốc),"Bổ, nhuận phế, chữa ho.",15-60g/ngày.,"Vị ngọt, tính ôn.","Tỳ, Vị, Phế."
+618,Kim anh (Quả),(Không có),Rosa laevigata Michx.,Rosaceae (Hoa hồng),"Chữa di tinh, đái són, đi lỏng.",6-12g/ngày.,"Vị chua, chát, tính bình.","Thận, Bàng quang, Đại tràng."
+619,Tầm xuân,(Không có),Rosa cymosa Tratt.,Rosaceae (Hoa hồng),Tương tự Kim anh.,Tương tự Kim anh.,(Tương tự Kim anh).,(Tương tự Kim anh).
+620,Hồ đào (Hạt),(Không có),Juglans regia L.,Juglandaceae (Hồ đào),"Bổ, chữa ho, đau lưng, táo bón.",10-30g/ngày.,"Vị ngọt, tính ôn.","Phế, Thận."
+621,Đào tiên,(Không có),Crescentia cujete L.,Bignoniaceae (Chùm ớt),"Bổ. Chữa ho, viêm họng.",10-20g/ngày.,(Không ghi rõ),(Không ghi rõ)
+622,Vừng (Hạt),(Không có),Sesamum indicum DC.,Pedaliaceae (Vừng),"Bổ, nhuận tràng.",10-20g/ngày.,"Vị ngọt, tính bình.","Can, Thận, Đại tràng."
+623,Bổ béo,(Không có),Ficus auriculata Lour.,Moraceae (Dâu tằm),Bổ.,15-20g/ngày.,(Không ghi rõ),(Không ghi rõ)
+624,Cát sâm,(Không có),Millettia speciosa Champ.,Papilionaceae (Cánh bướm),"Bổ, chữa suy nhược, kém ăn.",12-20g/ngày.,(Không ghi rõ),(Không ghi rõ)
+625,Công cộng,sì to,Entada phaseoloides (L.) Merr.,Mimosaceae (Trinh nữ),"Bổ, chữa đau lưng.",20-30g/ngày.,(Không ghi rõ),(Không ghi rõ)
+626,Cây cơm nếp,(Không có),Alchornea rugosa (Lour.) Muell.Arg.,Euphorbiaceae (Thầu dầu),Bổ.,10-20g/ngày.,(Không ghi rõ),(Không ghi rõ)
+627,Cây lá dứa,(Không có),Pandanus amaryllifolius Roxb.,Pandanaceae (Dứa dại),"Bổ, chữa tiểu đường.",(Không ghi rõ).,(Không ghi rõ),(Không ghi rõ)
+628,Dâm dương hoắc,(Không có),Epimedium macranthum Morr. & Decne.,Berberidaceae (Hoàng liên gai),"Bổ thận, tráng dương, chữa liệt dương, di tinh.",4-12g/ngày.,"Vị cay, ngọt, tính ôn.","Can, Thận."
+629,Dâu rượu,(Không có),Vaccinium dunalianum Wight,Ericaceae (Đỗ quyên),"Bổ, chữa đau lưng, mỏi gối.",20-40g/ngày.,(Không ghi rõ),(Không ghi rõ)
+630,Đại táo,(Không có),Ziziphus jujuba Mill.,Rhamnaceae (Táo ta),"Bổ tỳ, ích khí, dưỡng huyết, an thần.",10-30g/ngày.,"Vị ngọt, tính ôn.","Tỳ, Vị."
+631,Ô môi,(Không có),Cassia grandis L.f.,Caesalpiniaceae (Vang),"Bổ, nhuận tràng.",10-20g/ngày.,(Không ghi rõ),(Không ghi rõ)
+632,Sâm cau,(Không có),Curculigo orchioides Gaertn.,Hypoxidaceae (Sâm cau),"Bổ thận, tráng dương, chữa liệt dương.",8-12g/ngày.,"Vị cay, tính ôn, có độc.",Thận.
+633,Sơn thù du,(Không có),Cornus officinalis Siebold & Zucc.,Cornaceae (Sơn thù),"Bổ can thận, chữa di tinh, mồ hôi trộm.",6-12g/ngày.,"Vị chua, chát, tính hơi ôn.","Can, Thận."
+634,Thanh thất,(Không có),Ailanthus triphysa (Dennst.) Alston,Simaroubaceae (Thanh thất),"Chữa lỵ, tiêu chảy.",8-16g vỏ thân/ngày.,(Không ghi rõ),(Không ghi rõ)
+635,Thổ tam thất,(Không có),Gynura pinnatifida DC.,Asteraceae (Cúc),"Bổ, cầm máu.",6-12g củ/ngày.,(Không ghi rõ),(Không ghi rõ)
+636,Tỏa dương,(Không có),Balanophora sp.,Balanophoraceae (Dó đất),"Bổ thận, tráng dương, chữa liệt dương, đau lưng, mỏi gối.",8-12g/ngày.,"Vị ngọt, tính ôn.","Can, Thận."
+637,Vú bò,(Không có),Ficus heterophylla L.f.,Moraceae (Dâu tằm),"Bổ, lợi sữa.",10-20g rễ/ngày.,(Không ghi rõ),(Không ghi rõ)
+638,Ca cao,(Không có),Theobroma cacao L.,Sterculiaceae (Trôm),"Bổ, kích thích thần kinh.",(Thực phẩm).,(Không ghi rõ),(Không ghi rõ)
+639,Dừa,(Không có),Cocos nucifera L.,Palmae (Cau),"Bổ, giải khát.",(Thực phẩm).,(Không ghi rõ),(Không ghi rõ)
+640,Cọ dầu,(Không có),Elaeis guineensis Jacq.,Palmae (Cau),Cung cấp dầu và vitamin A.,(Thực phẩm).,(Không ghi rõ),(Không ghi rõ)
+641,Coca,(Không có),Erythroxylum coca Lam.,Erythroxylaceae (Coca),"Gây tê, kích thích thần kinh.",(Thuốc gây nghiện).,Có độc.,(Không ghi rõ)
+642,Cola,(Không có),Cola nitida (Vent.) Schott & Endl.,Sterculiaceae (Trôm),Kích thích thần kinh.,(Dùng trong công nghiệp).,(Không ghi rõ),(Không ghi rõ)
+643,Vú sữa,(Không có),Chrysophyllum cainito L.,Sapotaceae (Hồng xiêm),Bổ.,(Ăn quả).,(Không ghi rõ),(Không ghi rõ)
+644,Lêkima,(Không có),Pouteria lucuma (Ruiz & Pav.) Kuntze,Sapotaceae (Hồng xiêm),Bổ.,(Ăn quả).,(Không ghi rõ),(Không ghi rõ)
+645,Sầu riêng,(Không có),Durio zibethinus L.,Bombacaceae (Gạo),Bổ.,(Ăn quả).,(Không ghi rõ),(Không ghi rõ)
+646,Dưa hấu,(Không có),Citrullus lanatus (Thunb.) Matsum. & Nakai,Cucurbitaceae (Bí),"Thanh nhiệt, giải khát.",(Ăn quả).,"Vị ngọt, tính hàn.",(Không ghi rõ)
+647,Đậu nành,(Không có),Glycine max (L.) Merr.,Papilionaceae (Cánh bướm),Bổ.,(Thực phẩm).,(Không ghi rõ),(Không ghi rõ)
+648,Đậu xanh,(Không có),Vigna radiata (L.) R.Wilczek,Papilionaceae (Cánh bướm),"Thanh nhiệt, giải độc.",(Thực phẩm).,(Không ghi rõ),(Không ghi rõ)
+649,Nhục thung dung,(Không có),Cistanche deserticola Y.C.Ma,Orobanchaceae (Lệ dương),"Bổ thận, tráng dương.",8-12g/ngày.,"Vị ngọt, mặn, tính ôn.","Thận, Đại tràng."
+650,Tích dương,(Không có),Cynomorium coccineum L. subsp. songaricum,Cynomoriaceae (Tỏa dương),"Bổ thận, tráng dương.",8-12g/ngày.,"Vị ngọt, tính ôn.","Can, Thận."
+651,Tầm sét,(Không có),Helicteres hirsuta Lour.,Sterculiaceae (Trôm),"Bổ, chữa sốt rét.",10-20g/ngày.,(Không ghi rõ),(Không ghi rõ)
+652,Cây xa kê,(Không có),Artocarpus altilis (Parkinson) Fosberg,Moraceae (Dâu tằm),Chữa mụn nhọt.,Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+653,"Lộc nhung, mê nhung",(Không có),(Cervus sp.),(Nguồn gốc động vật),"Bổ, mạnh gân xương, chữa suy nhược, thiếu máu, liệt dương, di tinh.",1-4g/ngày (dạng bột).,"Vị ngọt, mặn, tính ôn.","Can, Thận."
+654,Lộc giác,(Không có),(Cervus sp.),(Nguồn gốc động vật),"Bổ, chữa di tinh, đau lưng.",4-12g/ngày.,"Vị mặn, tính ôn.","Can, Thận."
+655,Cao ban long,(Không có),(Colla Cornus Cervi),(Nguồn gốc động vật),"Bổ, chữa suy nhược, nôn ra máu, băng huyết.",4-10g/ngày.,"Vị ngọt, tính bình.","Can, Thận."
+656,A giao - Minh giao,(Không có),(Colla Corii Asini),(Nguồn gốc động vật),"Bổ huyết, cầm máu, chữa ho, an thai.",6-12g/ngày.,"Vị ngọt, tính bình.","Phế, Can, Thận."
+657,Nhau sản phụ,tử hà sa,(Placenta Hominis),(Nguồn gốc động vật),"Bổ, chữa cơ thể suy nhược, gầy yếu, thiếu máu, hen suyễn.",6-12g/ngày.,"Vị ngọt, mặn, tính ôn.","Phế, Can, Thận."
+658,Hải mã,cá ngựa,(Hippocampus sp.),(Nguồn gốc động vật),"Bổ thận, tráng dương, chữa liệt dương, đau lưng.",4-12g/ngày.,"Vị ngọt, tính ôn.",Thận.
+659,Huyết lình,(Không có),(Macaca mulatta),(Nguồn gốc động vật),"Bổ huyết, chữa thiếu máu.",2-4g/ngày.,(Không ghi rõ),(Không ghi rõ)
+660,Tắc kè,(Không có),(Gekko gecko L.),(Nguồn gốc động vật),"Bổ phế, thận. Chữa ho lao, ho ra máu, hen suyễn, liệt dương, di tinh.",4-12g/ngày.,"Vị mặn, tính ôn.","Phế, Thận."
+661,Mật ong,(Không có),(Mel),(Nguồn gốc động vật),"Bổ, nhuận tràng, chữa ho, đau loét dạ dày.",20-50g/ngày.,"Vị ngọt, tính bình.","Tỳ, Vị, Phế, Đại tràng."
+662,Nọc ong,(Không có),(Venom Apis),(Nguồn gốc động vật),"Chữa tê thấp, đau nhức.",(Tiêm).,(Không ghi rõ),(Không ghi rõ)
+663,Ong đen,(Không có),(Xylocopa sp.),(Nguồn gốc động vật),"Chữa mụn nhọt, lở loét.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+664,Yến,yến sào,(Collocalia sp.),(Nguồn gốc động vật),"Bổ, chữa ho, hen suyễn, thổ huyết.",6-12g/ngày.,"Vị ngọt, tính bình.","Phế, Vị, Thận."
+665,Bạch cương tàm,(Không có),(Bombyx mori L. infectus),(Nguồn gốc động vật),"Chữa kinh giật, co giật, đau đầu, đau họng.",3-10g/ngày.,"Vị cay, mặn, tính bình.","Can, Phế."
+666,Bọ cạp,toàn yết,(Buthus martensii Karsch),(Nguồn gốc động vật),"Trấn kinh, chữa kinh giật, co giật, đau nhức.",2-4g/ngày.,"Vị mặn, cay, tính bình, có độc.",Can.
+667,Nhựa cóc,thiềm tô,(Venenum Bufonis),(Nguồn gốc động vật),"Giảm đau, trợ tim, chữa đau răng, mụn nhọt.",0.01-0.02g/ngày.,"Vị cay, tính ôn, có độc.",Tâm.
+668,Dạ minh sa,(Không có),(Excrementum Vespertilionis),(Nguồn gốc động vật),"Chữa quáng gà, mắt mờ.",4-8g/ngày.,"Vị cay, tính hàn.",Can.
+669,Con dế,(Không có),(Gryllulus chinensis Weber),(Nguồn gốc động vật),"Lợi tiểu, chữa bí đái.",2-4 con/ngày.,"Vị cay, mặn, tính ôn.",(Không ghi rõ)
+670,Nước bọt,(Không có),(Saliva Hominis),(Nguồn gốc động vật),"Chữa mụn nhọt, lở loét.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+671,Nước tiểu,đồng tiện,(Urira Hominis),(Nguồn gốc động vật),"Chữa sốt, thổ huyết.",(Tùy dùng).,"Vị mặn, tính hàn.","Phế, Can, Thận."
+672,Phân người,(Không có),(Excrementum Hominis),(Nguồn gốc động vật),Chữa sốt.,(Không ghi rõ liều).,(Không ghi rõ),(Không ghi rõ)
+673,Giun đất,địa long,(Pheretima asiatica Michaelsen),(Nguồn gốc động vật),"Chữa sốt cao, co giật, hen suyễn, cao huyết áp.",6-12g/ngày.,"Vị mặn, tính hàn.","Can, Tỳ, Phế, Bàng quang."
+674,Xương hổ,(Không có),(Os Tigris),(Nguồn gốc động vật),"Bổ, chữa tê thấp, đau nhức, mạnh gân cốt.",10-15g cao/ngày.,"Vị cay, tính ôn.","Can, Thận."
+675,Khỉ,(Không có),(Macaca sp.),(Nguồn gốc động vật),"Bổ, chữa thiếu máu.",(Nấu cao).,(Không ghi rõ),(Không ghi rõ)
+676,Long duyên hương,(Không có),(Ambra grisea),(Nguồn gốc động vật),"Trừ đờm, chữa ho, hen.",0.3-1.5g/ngày.,"Vị ngọt, tính ấm.",(Không ghi rõ)
+677,Hổ phách,(Không có),(Succinum),(Hóa thạch),"An thần, lợi tiểu.",1-3g/ngày.,"Vị ngọt, tính bình.","Tâm, Can, Bàng quang."
+678,Miết giáp,(Không có),(Carapax Trionycis),(Nguồn gốc động vật),"Chữa sốt rét, kinh bế.",12-24g/ngày.,"Vị mặn, tính bình.","Can, Tỳ."
+679,Nhân trung bạch,(Không có),(Praeparatio Urinae Hominis),(Nguồn gốc động vật),"Chữa chảy máu cam, viêm họng.",4-8g/ngày.,"Vị mặn, tính bình.","Can, Tam tiêu, Bàng quang."
+680,Nhện,(Không có),(Aranea),(Nguồn gốc động vật),"Chữa mụn nhọt, sa đì.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+681,Ngũ linh chi,(Không có),(Excrementum Trogopterori),(Nguồn gốc động vật),"Chữa đau bụng kinh, đau bụng sau đẻ.",6-12g/ngày.,"Vị ngọt, tính ôn.",Can.
+682,Rắn,(Không có),(Serpens),(Nguồn gốc động vật),"Chữa tê thấp, đau nhức.",(Ngâm rượu).,(Không ghi rõ),(Không ghi rõ)
+683,Xạ hương,(Không có),(Moschus),(Nguồn gốc động vật),"Khai khiếu, chữa trúng phong, mê man.",0.04-0.1g/ngày.,"Vị cay, tính ôn.","Tâm, Tỳ."
+684,Quy bản và cao quy bản,(Không có),(Plastrum Testudinis),(Nguồn gốc động vật),"Bổ thận, âm hư. Chữa di tinh, mộng tinh, đau lưng.",12-24g/ngày.,"Vị ngọt, mặn, tính hàn.","Thận, Tâm, Can."
+685,Tàm sa,(Không có),(Excrementum Bombycis),(Nguồn gốc động vật),"Chữa phong thấp, đau nhức.",6-12g/ngày.,"Vị ngọt, cay, tính ôn.","Can, Tỳ, Vị."
+686,Tê giác (Sừng),(Không có),(Rhinoceros sondaicus),(Nguồn gốc động vật),"Chữa sốt cao, mê sảng, co giật.",0.5-1g/ngày.,"Vị đắng, mặn, tính hàn.","Tâm, Can, Vị."
+687,Thạch sùng,(Không có),(Hemidactylus frenatus),(Nguồn gốc động vật),"Chữa co giật, hen suyễn.",2-3 con/ngày.,"Vị mặn, tính hàn, có độc.",Can.
+688,Tóc rối,(Không có),(Crinis Hominis),(Nguồn gốc động vật),Cầm máu.,6-10g/ngày (đốt thành than).,"Vị đắng, tính bình.","Can, Vị."
+689,Da voi,(Không có),(Corium Elephatis),(Nguồn gốc động vật),Cầm máu.,4-12g/ngày.,"Vị ngọt, mặn, tính ôn.","Tâm, Tỳ."
+690,Xuyên sơn giáp,(Không có),(Squama Manitis),(Nguồn gốc động vật),"Chữa tắc tia sữa, mụn nhọt, phong thấp.",6-12g/ngày.,"Vị mặn, tính hơi hàn.","Can, Vị."
+691,Bìm bịp,(Không có),(Centropus sinensis),(Nguồn gốc động vật),"Bổ, chữa đau lưng, suy nhược.",1-2 con ngâm rượu.,"Vị ngọt, tính ấm.",(Không ghi rõ)
+692,Cà cuống,(Không có),(Lethocerus indicus),(Nguồn gốc động vật),"Bổ thận, tráng dương.",0.1-0.2g/ngày (túi tinh dầu).,"Vị ngọt, cay, tính bình.","Thận, Bàng quang."
+693,Cá nóc,(Không có),(Tetraodon sp.),(Nguồn gốc động vật),Chữa đau nhức.,(Rất độc).,Rất độc.,(Không ghi rõ)
+694,Cá trắm (Mật),(Không có),(Ctenopharyngodon idellus),(Nguồn gốc động vật),"Chữa đau mắt, viêm họng.",Dùng ngoài.,"Vị đắng, tính hàn.","Can, Đởm."
+695,Chim sẻ,(Không có),(Passer montanus L.),(Nguồn gốc động vật),"Bổ thận, tráng dương.",2-5 con/ngày.,"Vị ngọt, tính ấm.",Thận.
+696,Chó (Thịt),(Không có),(Canis familiaris L.),(Nguồn gốc động vật),"Bổ, mạnh gân xương.",(Thực phẩm).,"Vị mặn, tính nóng.",(Không ghi rõ)
+697,Dê (Thịt),(Không có),(Capra sp.),(Nguồn gốc động vật),"Bổ, ích khí huyết.",(Thực phẩm).,"Vị ngọt, tính nóng.",(Không ghi rõ)
+698,Đồi mồi (Vảy),(Không có),(Eretmochelys imbricata),(Nguồn gốc động vật),"Giải độc, chữa sưng tấy.",2-4g/ngày.,"Vị ngọt, tính hàn.",(Không ghi rõ)
+699,Kỳ đà,(Không có),(Varanus sp.),(Nguồn gốc động vật),Bổ.,"(Ngâm rượu, nấu cao).","Vị ngọt, tính bình.",(Không ghi rõ)
+700,Con nhím (Dạ dày),(Không có),(Hystrix hodgsoni Gray),(Nguồn gốc động vật),Chữa đau dạ dày.,4-6g/ngày.,"Vị đắng, ngọt, tính bình.",(Không ghi rõ)
+701,Thằn lằn,(Không có),(Lacerta sp.),(Nguồn gốc động vật),"Bổ, chữa hen suyễn.",4-12g/ngày.,(Không ghi rõ),(Không ghi rõ)
+702,Trăn,(Không có),(Python sp.),(Nguồn gốc động vật),"Chữa đau nhức, bỏng.",Dùng ngoài.,(Không ghi rõ),(Không ghi rõ)
+703,Con rươi,(Không có),(Tylorrhynchus heterochaetus),(Nguồn gốc động vật),Bổ.,(Thực phẩm).,(Không ghi rõ),(Không ghi rõ)
+704,Con sam,(Không có),(Tachypleus tridentatus),(Nguồn gốc động vật),"Chữa đau bụng, lở loét.",6-12g vỏ đốt/ngày.,(Không ghi rõ),(Không ghi rõ)
+705,Đỉa,(Không có),(Hirudo nipponica),(Nguồn gốc động vật),"Phá huyết, chữa bế kinh, tụ máu.",2-4g khô/ngày.,"Vị mặn, đắng, tính bình, có độc.",Can.
+706,Hải sâm,(Không có),(Stichopus japonicus),(Nguồn gốc động vật),"Bổ thận, tráng dương.",20-40g/ngày.,"Vị mặn, tính ấm.","Tâm, Thận."
+707,"Con quy (Thịt, mai)",(Không có),(Testudo sp.),(Nguồn gốc động vật),"Bổ, chữa di tinh, đau lưng.","(Nấu ăn, nấu cao).",(Không ghi rõ),(Không ghi rõ)
+708,Ốc sên,(Không có),(Helix aspersa),(Nguồn gốc động vật),Chữa hen suyễn.,(Nướng ăn).,(Không ghi rõ),(Không ghi rõ)
+709,Sâu ban miêu,(Không có),(Mylabris phalerata),(Nguồn gốc động vật),"Gây phồng da, chữa mụn nhọt.","Dùng ngoài, rất độc.","Vị cay, tính nóng, rất độc.","Can, Thận."
+710,Diêm sinh,(Không có),(Sulfur),(Khoáng vật),"Chữa ghẻ, lở loét.",Dùng ngoài.,"Vị chua, tính ôn, có độc.","Tâm, Thận."
+711,Duyên đơn,(Không có),(Minium),(Khoáng vật),"Chữa mụn nhọt, lở loét.",Dùng ngoài.,"Vị cay, tính hơi lạnh, có độc.",(Không ghi rõ)
+712,Đảm phàn,(Không có),(Chalcanthitum),(Khoáng vật),"Chữa đau mắt, viêm họng.",Dùng ngoài.,"Vị chua, chát, tính hàn, có độc.",(Không ghi rõ)
+714,Hoạt thạch,(Không có),Talcum,(Khoáng vật),"Lợi tiểu, chữa sốt, rôm sảy .",10-20g/ngày .,"Vị ngọt, tính hàn.","Vị, Bàng quang."
+715,Hùng hoàng và Thư hoàng,(Không có),Realgar et Orpimentum,(Khoáng vật),"Sát trùng, giải độc, chữa ghẻ, rắn cắn .",0.3-0.6g/ngày .,"Vị đắng, cay, tính ôn, có độc.",(Không ghi rõ)
+716,Khinh phấn,(Không có),Calomelas,(Khoáng vật),"Lợi tiểu, sát trùng.",0.1-0.2g/lần .,"Vị cay, tính hàn, có độc.",(Không ghi rõ)
+717,Long cốt,(Không có),Os Draconis,(Hóa thạch),"An thần, chữa kinh giật, di tinh.",12-20g/ngày .,"Vị ngọt, chát, tính bình.","Tâm, Can, Thận."
+718,Lô cam thạch,(Không có),Calamina,(Khoáng vật),"Chữa đau mắt, lở loét.",Dùng ngoài .,"Vị ngọt, tính ôn.","Can, Tỳ."
+719,Lục phàn,(Không có),Melanteritum,(Khoáng vật),"Chữa lở loét, thiếu máu.",0.3-1g/ngày .,"Vị chua, chát, tính hàn.",(Không ghi rõ)
+720,Mật đà tăng,(Không có),Lithargyrum,(Khoáng vật),"Chữa mụn nhọt, lở loét.",Dùng ngoài .,"Vị mặn, cay, tính bình, có độc.",(Không ghi rõ)
+721,Muối ăn,(Không có),Natrium chloratum,(Khoáng vật),"Sát trùng, chữa đau răng, viêm họng.",(Gia vị) .,"Vị mặn, tính hàn.",Thận.
+722,Phèn chua,(Không có),Alumen,(Khoáng vật),"Sát trùng, chữa ghẻ, hắc lào, đau mắt.",1-4g/ngày .,"Vị chua, tính hàn.","Tỳ, Phế."
+723,Phục long can,(Không có),Terra Flava Usta,(Đất),"Cầm máu, chữa nôn mửa, đau bụng.",12-20g/ngày .,"Vị cay, tính ôn.","Tỳ, Vị."
+724,Thạch cao,(Không có),Gypsum fibrosum,(Khoáng vật),"Chữa sốt cao, mê sảng, đau đầu.",12-40g/ngày .,"Vị ngọt, cay, tính đại hàn.","Phế, Vị, Tam tiêu."
+725,Thạch tín,(Không có),Arsenicum,(Khoáng vật),(Không dùng).,(Rất độc) .,"Vị cay, tính đại nhiệt, rất độc.",(Không ghi rõ)
+726,Thăng dược,(Không có),Hydrargyrum oxydatum rubrum,(Hóa chất),Chữa lở loét.,"Dùng ngoài, rất độc .","Vị cay, tính nóng, rất độc.",(Không ghi rõ)
+727,Thủy ngân,(Không có),Hydrargyrum,(Kim loại),Chữa ghẻ lở.,"Dùng ngoài, rất độc .","Vị cay, tính hàn, có độc.",(Không ghi rõ)
